@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">62336</event_id>
+      <title>【CAMPHOR-×カカクコム】食べログ流 スマホアプリの作り方</title>
+      <event_url>http://atnd.org/events/62336</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">15</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-02-17 23:26:57 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">198614</user_id>
+          <nickname>reinyan</nickname>
+          <twitter_id>reinyan_miao</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">173974</user_id>
+          <nickname>ryota-ka</nickname>
+          <twitter_id>ryotakameoka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">198641</user_id>
+          <nickname>zacky3722</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">186205</user_id>
+          <nickname>Ryohei52</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">192548</user_id>
+          <nickname>ohmuraken</nickname>
+          <twitter_id>oh_muraken</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185926</user_id>
+          <nickname>sensho</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">165134</user_id>
+          <nickname>kakenn0901</nickname>
+          <twitter_id>kakenn0901</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">172688</user_id>
+          <nickname>yus_no_s</nickname>
+          <twitter_id>yus_no_s</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">197691</user_id>
+          <nickname>pepoipod</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">199339</user_id>
+          <nickname>hiroqn</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">157326</user_id>
+          <nickname>morishin</nickname>
+          <twitter_id>morishin127</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200127</user_id>
+          <nickname>shoichi sakata</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200128</user_id>
+          <nickname>tomohiro yoshimura</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

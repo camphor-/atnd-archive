@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">64386</event_id>
+      <title>Unityハンズオン勉強会</title>
+      <event_url>http://atnd.org/events/64386</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">19</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-04-12 00:53:53 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">173974</user_id>
+          <nickname>ryota-ka</nickname>
+          <twitter_id>ryotakameoka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">197691</user_id>
+          <nickname>pepoipod</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">136154</user_id>
+          <nickname>siriusjack</nickname>
+          <twitter_id>Siriusjack808</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">165134</user_id>
+          <nickname>kakenn0901</nickname>
+          <twitter_id>kakenn0901</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">199454</user_id>
+          <nickname>kento_p</nickname>
+          <twitter_id>_kentrino</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">204759</user_id>
+          <nickname>massu1221</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">204766</user_id>
+          <nickname>mummer</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">192548</user_id>
+          <nickname>ohmuraken</nickname>
+          <twitter_id>oh_muraken</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">204742</user_id>
+          <nickname>accelerate</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">113773</user_id>
+          <nickname>mikuni</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205201</user_id>
+          <nickname>Sbleru</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">199645</user_id>
+          <nickname>fabichirox</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205721</user_id>
+          <nickname>Loeran</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205751</user_id>
+          <nickname>Kazuhiko</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205764</user_id>
+          <nickname>Nishimoto72</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205767</user_id>
+          <nickname>k.imanishi</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">206426</user_id>
+          <nickname>ひろせ.</nickname>
+          <twitter_id>lotz84_</twitter_id>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

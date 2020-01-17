@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">63070</event_id>
+      <title>【CAMPHOR- リクルート】1 day Hackathon </title>
+      <event_url>http://atnd.org/events/63070</event_url>
+      <limit type="integer">25</limit>
+      <accepted type="integer">22</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-03-08 11:10:16 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">182375</user_id>
+          <nickname>Kenta</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200158</user_id>
+          <nickname>saigaso</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200204</user_id>
+          <nickname>タラチャン</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200267</user_id>
+          <nickname>@fnwiya</nickname>
+          <twitter_id>fnwiya</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">182582</user_id>
+          <nickname>p1ch_jp</nickname>
+          <twitter_id>p1ch_jp</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200287</user_id>
+          <nickname>awjecc</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">125621</user_id>
+          <nickname>i6261t</nickname>
+          <twitter_id>i6261t</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200366</user_id>
+          <nickname>hirao_</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200128</user_id>
+          <nickname>tomohiro yoshimura</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">157415</user_id>
+          <nickname>mikasakasa</nickname>
+          <twitter_id>mikasaka3</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">173974</user_id>
+          <nickname>ryota-ka</nickname>
+          <twitter_id>ryotakameoka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200283</user_id>
+          <nickname>牧野 祐馬</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">165134</user_id>
+          <nickname>kakenn0901</nickname>
+          <twitter_id>kakenn0901</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200571</user_id>
+          <nickname>tomoky</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">193674</user_id>
+          <nickname>tanishiking</nickname>
+          <twitter_id>tanishiking</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">193424</user_id>
+          <nickname>shinglish11</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">200127</user_id>
+          <nickname>shoichi sakata</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">201414</user_id>
+          <nickname>niimai</nickname>
+          <twitter_id>niimai_</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185276</user_id>
+          <nickname>shota23</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">136154</user_id>
+          <nickname>siriusjack</nickname>
+          <twitter_id>Siriusjack808</twitter_id>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

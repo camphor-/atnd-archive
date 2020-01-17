@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">61055</event_id>
+      <title>CAMPHOR- x KMC 交流会</title>
+      <event_url>http://atnd.org/events/61055</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">9</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-01-12 15:48:09 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">8599</user_id>
+          <nickname>チャゲ</nickname>
+          <twitter_id>tyage</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">192548</user_id>
+          <nickname>ohmuraken</nickname>
+          <twitter_id>oh_muraken</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">172688</user_id>
+          <nickname>yus_no_s</nickname>
+          <twitter_id>yus_no_s</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">2130</user_id>
+          <nickname>Pasta-K</nickname>
+          <twitter_id>pastak</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">68141</user_id>
+          <nickname>uiureo</nickname>
+          <twitter_id>uiu______</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">133164</user_id>
+          <nickname>siotouto</nickname>
+          <twitter_id>sio_tet</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">195440</user_id>
+          <nickname>yu3mars</nickname>
+          <twitter_id>yu3mars</twitter_id>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

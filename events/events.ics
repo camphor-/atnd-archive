@@ -1,0 +1,649 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:atnd.org
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:atnd
+X-WR-CALDESC:on atnd
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20151201T174759
+UID:atnd-72781
+DTSTART;TZID=Asia/Tokyo:20151226T190000
+DTEND;TZID=Asia/Tokyo:20151226T210000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20151201T174759
+DESCRIPTION:## 忘年会のお知らせ\nみなさま，今年も頑張りましたか？  \nCAMPHOR- にちょっとでも関わり合いのあったみんなで，
+ ドイツビールを囲んでワイワイしたいと思います！  \nお友達を連れて来てもらっても大歓迎です．\n\n## 詳細\n日時：12/26(土) 19時スタ
+ ート  \n場所：[サクラサリ](http://www.doitsulink.com/sakurasari/)（ドイツ料理・CAMPHOR- HOUS
+ Eから歩いて5秒！）  \n料金：調整中（おそらく，2000 ~ 2500円程度の料理 + 飲んだ分）\n\n## 締め切り\nお店予約のため，12/
+ 24(木) までにATNDでの出欠を確定して下さい！\n締め切りを過ぎていても参加できないわけではないので，参加を押しておいて下さい．\n\n## 連
+ 絡先\n何か連絡が必要な場合は，Twitterで[@CamphorKyoto](https://twitter.com/camphorkyoto)宛に
+ ご連絡下さい！  \nCAMPHOR- の運営メンバーに直接連絡をとっていただいても構いません．\n
+LAST-MODIFIED;TZID=Asia/Tokyo:20151223T193315
+SUMMARY:2015 CAMPHOR- 忘年会
+URL:http://atnd.org/events/72781
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20151006T000816
+UID:atnd-70906
+DTSTART;TZID=Asia/Tokyo:20151017T130000
+DTEND;TZID=Asia/Tokyo:20151017T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20151006T000816
+DESCRIPTION:## 概要\n「プログラミングを始めたばかりでよく分からないので誰かに質問したい」・「この言語についてもっと知りたいがどうやっ
+ て勉強すれば良いのかわからない」・「こういったサービスを作りたいがどこから手をつけたらいいかわからない」・「エディタについて熱く語り合いたい」などプロ
+ グラミングに関する様々なトピックについて CAMPHOR- のメンバーと自由に相談できるイベントです.\n\n時間内の出入りは自由となっていますので\
+ , お気軽に参加してください.\n\n## 参加費\n無料\n\n## スケジュール\n13:00 〜 20:00 の間\, 会場を開けていますので\
+ , ご都合の良い時間にお越しください.\n\n## メンバー\n今回参加する CAMPHOR- のメンバーは以下のようなことについてお話できます. こ
+ こに書かれていないことについての相談も大歓迎です.\n\nC・C++・CSS・Debian・Django・HTML・Git・iOS・JavaScrip
+ t・MySQL・Node.js・Objective-C・Pandas・PHP・Python・Ruby・Ruby on Rails・Swift など.\
+ n\n## その他\nCAMPHOR- HOUSE 内では\, 電源と Wi-Fi (2.4GHz/5GHz) を利用できます.\n\n会場の場所がわ
+ からない場合は [@CamphorKyoto](https://twitter.com/camphorkyoto) へ連絡してください.\n\n- [
+ CAMPHOR-](https://camph.net/)  
+LAST-MODIFIED;TZID=Asia/Tokyo:20151006T153041
+SUMMARY:第2回 プログラミング大相談会
+URL:http://atnd.org/events/70906
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150629T082155
+UID:atnd-67823
+DTSTART;TZID=Asia/Tokyo:20150711T170000
+DTEND;TZID=Asia/Tokyo:20150711T190000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150629T082155
+DESCRIPTION:##内容\nWebRTCを簡単に利用することが可能になるサービス「[SkyWay](http://nttcom.github.
+ io/skyway/)」を使って、ブラウザで動くビデオ通話アプリを作成します！\n当日はハンズオン形式の勉強会ということで、WebRTCやSkyWay
+ についての講義を行った後，参加者自身が手を動かして実際に動くアプリを作成します。\n懇親会を含め、参加費は無料です。\n\n##WebRTCとは\n映
+ 像・音声・データ通信のためのオープン標準規格です。例えば、SkypeやLINEのような通話機能や、対戦型ゲームなどに利用できます。モバイルアプリだけで
+ はなく、Webブラウザでも動きます。\n\n##対象者\nWebRTCやアプリ作りに興味のある学生\n\n##持ち物\nノートパソコン\n\n##当日
+ のスケジュール\n- 17:00 ~ 19:00 ハンズオン\n \n勉強会終了後，懇親会を行います．\nNTTCom様のご厚意で、食事・お酒等を負担
+ していただけることになっております。\nぜひご参加ください。\n\n##その他\n本イベントは、京都IT系学生コミュニティ [CAMPHOR-](ht
+ tps://camph.net/) と[エヌ・ティ・ティ・コミュニケーションズ株式会社](http://www.ntt.com/)による合同勉強会です
+ 。\n\nCAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用になれます。   \n\n会場の場所が少々分かりにくいため、   \nお困
+ りの場合は [@CamphorKyoto](https://twitter.com/CamphorKyoto) にリプライを飛ばして頂けると対応致しま
+ す。\n\n##関連リンク\n[CAMPHOR-](https://camph.net/)   \n[エヌ・ティ・ティ・コミュニケーションズ株式会社]
+ (http://www.ntt.com/)   \n[WebRTCとは](http://www.slideshare.net/rotsuya/5j-c
+ up-20140423)
+LAST-MODIFIED;TZID=Asia/Tokyo:20150702T225728
+SUMMARY:WebRTC入門 ハンズオン勉強会 〜ブラウザで動く無料ビデオ通話アプリを作ろう！〜
+URL:http://atnd.org/events/67823
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150608T204324
+UID:atnd-67099
+DTSTART;TZID=Asia/Tokyo:20150627T100000
+DTEND;TZID=Asia/Tokyo:20150627T213000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150608T204324
+DESCRIPTION:### 増員しました\n\n## 【学生限定】ハードウェアに触れてみようハッカソン\n\n\nRaspberry Piや、Ar
+ duino、3Dプリンターなどいつもソフトウェアを触っている人はなかなか使う機会がないハードウェアを自由に触ってハッカソンをするイベントです。\n\n
+ ３〜５人のチームをその場で作っていただき、最後に発表していただきます。\n\n懇親会を含め、参加費は無料です。\n\n##どんなものを作る？\n\nこ
+ ちらからは特に制限は設けません。ハードウェアを使ったものでしたら何でもかまいません。\n当日はハードウェアの触れる [CAMPHOR-メンバー](ht
+ tps://camph.net/members/)が会場にいますので、質問等も可能です。\n\n※ 開発時間が限られるため、アイデアはイベント当日考え
+ るよりも事前に考えて頂けるとスムーズにご参加頂けます。   \n\n##対象者\n\nいつもソフトウェア開発をしているけどハードに興味がある学生\nハ
+ ードは触っているけど3Dプリンターやその他のハードも触ってみたい学生\n\n## 会場\n\n[TECH LAB PAAK](http://techl
+ abpaak.com/)\n\n東京都渋谷区神南1-20-9-6F（受付）/7F \n渋谷駅から徒歩5分 \n\n##持ち物\nノートパソコン\nWi
+ ndows または Mac OS X が入ったもの。  \n\n##当日のスケジュール\n\n\n### お弁当が出ます！！！(無料)\n\n* 09
+ :30 - 10:00 受付\n* 10:00 - 10:30	ハードウェアの説明\n* 11:00 - 12:00	ハードウェア体験＆アイデア出し\
+ n* 12:00 - 18:30	作業&昼食\n* 18:30 - 20:00	発表＆評価\n* 20:00 -	懇親会\n\n##当日触れるデバイス
+ リスト\n\n* MOVERIO\n* Raspberry Pi2\n* Arduino\n* 3Dプリンター\n* Moff\n* Oculus R
+ ift DK2\n* LEAPMotion\n* THETA\n* PHILIPS Hue\n* Open Web Borad\n* LittleBi
+ t\n\n##景品\n\n* 優秀者には、株式会社リクルートホールディングスの社員さんとのお食事券が贈呈されます。\n\n##その他\n\n### こ
+ のイベントは京都のITコミュニティーCAMPHOR- 主催のイベントです。\n\n* ハードの持ち込みは可能です。\n* チームは1人チームでも可能で
+ す。\n\n\n\n\n##メンター\n当日はメンターとして [CAMPHOR-メンバー](https://camph.net/members/) が
+ 会場に居ます。解らない事があった際にはお気軽にご質問下さい。\n##その他\n本イベントは、京都IT系学生コミュニティ [CAMPHOR-](http
+ s://camph.net/) 主催、[株式会社リクルートホールディングス](http://www.recruit.jp/)後援により開催します。  
+  \nTECH LAB PAAK 内では、電源と Wi-Fi をご利用になれます。   \n##関連リンク\n[CAMPHOR-](https://c
+ amph.net/)   \n[株式会社リクルートホールディングス](http://www.recruit.jp/)   \n[TECH LAB PA
+ AK](http://techlabpaak.com/)
+LAST-MODIFIED;TZID=Asia/Tokyo:20150626T162748
+SUMMARY:【学生限定】 ハードウェアに触れてみようハッカソン【CAMPHOR-】
+URL:http://atnd.org/events/67099
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150606T144548
+UID:atnd-66988
+DTSTART;TZID=Asia/Tokyo:20150620T180000
+DTEND;TZID=Asia/Tokyo:20150620T190000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150606T144548
+DESCRIPTION:h2. 内容\n\nLINE Fukuoka株式会社 エンジニアのtarunon様にお越しいただき、Swiftに関する勉強会を
+ 行います。\n\nh2. スピーカー\n\ntarunon（LINE Fukuoka株式会社）\n\nh2. スピーカーより一言\n  \n最近Swi
+ ftを使い始めて、型安全な世界の良さを再認識しました。\n\nAPIには型が厳密に定義されていないものが多くあります。そこで、今回はCoreDataを
+ 題材として、Genericsを駆使し、型安全に諸々の処理を書けるライブラリを開発してみました！\n\n関数型プログラミングのエッセンスも取り入れて、S
+ wiftらしい(?)ライブラリが開発できたと思うので、開発過程や成長を共有したいと思います。\n\nh2. 対象者\n\n興味のある学生の方ならどなた
+ でも。お気軽にお越しください。\n\n\nh2. 当日のタイムスケジュール（予定）\n\n* Swift勉強会（60分）\n* 質疑応答（10分）\n
+ \n\n勉強会終了後、CAMPHOR- HOUSE内での懇親会（無料）を予定しています。\n\n\nh2. その他\n\n本勉強会は、京都IT系学生コ
+ ミュニティ <a href="http://camph.net" target="_blank">CAMPHOR-</a> と、<a href="ht
+ tp://linecorp.com/ja/" target="_blank">LINE株式会社</a>による合同勉強会です。\n\nCAMPHOR- 
+ HOUSE 内では、電源と Wi-Fi をご利用になれます。\n\n会場の場所が少々分かりにくいため、お困りの際には <a href="https:/
+ /twitter.com/CamphorKyoto" target="_blank">@CamphorKyoto</a> にリプライを頂けると対応致し
+ ます。
+LAST-MODIFIED;TZID=Asia/Tokyo:20150617T203013
+SUMMARY:【CAMPHOR-】 Swift勉強会 〜SwiftでGenericsを使った優しい世界を目指してみる〜 sponsored by L
+ INE
+URL:http://atnd.org/events/66988
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150501T191141
+UID:atnd-65779
+DTSTART;TZID=Asia/Tokyo:20150509T130000
+DTEND;TZID=Asia/Tokyo:20150509T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150501T191141
+DESCRIPTION:## 概要\n「プログラミングを始めたばかりでよく分からないので誰かに質問したい」・「この言語についてもっと知りたいがどうやっ
+ て勉強すれば良いのかわからない」・「こういったサービスを作りたいがどこから手をつけたらいいかわからない」・「エディタについて熱く語り合いたい」などプロ
+ グラミングに関する様々なトピックについて CAMPHOR- のコアメンバーと自由に相談できるイベントです.\n\n時間内の出入りは自由となっていますの
+ で\, お気軽に参加してください.\n\n## 参加費\n無料\n\n## スケジュール\n13:00 〜 20:00 の間\, 会場を開けていますの
+ で\, ご都合の良い時間にお越しください.\n\n## メンバー\n今回参加する CAMPHOR- のメンバーは以下のようなことについてお話できます.
+ \n\nC・C++・CSS・Debian・Django・Flash・HTML・iOS・JavaScript・MySQL・Objective-C・Pan
+ das・PHP・Python・Ruby・Ruby on Rails・Swift・Unity など.\n\n## その他\nCAMPHOR- HOUSE
+  内では\, 電源と Wi-Fi (2.4GHz/5GHz) を利用できます.\n\n会場の場所がわからない場合は [@CamphorKyoto](h
+ ttps://twitter.com/camphorkyoto) へ連絡してください.\n\n- [CAMPHOR-](https://camph.n
+ et/)  
+LAST-MODIFIED;TZID=Asia/Tokyo:20150504T133039
+SUMMARY:第1回 プログラミング大相談会
+URL:http://atnd.org/events/65779
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150411T210123
+UID:atnd-65030
+DTSTART;TZID=Asia/Tokyo:20150425T160000
+DTEND;TZID=Asia/Tokyo:20150425T180000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150411T210123
+DESCRIPTION:## 概要\n\n初学者の方を対象とした、プログラミングの基礎を学ぶための勉強会です。初心者向けの勉強会ですので、事前知識がま
+ ったくない方でもご参加いただけます。\n\nオンラインプログラミング学習サービス [Progate](http://prog-8.com/) と、プロ
+ グラミング言語である [Ruby](https://www.ruby-lang.org/ja/) を用いて、簡単な英単語クイズアプリケーションを作成し
+ 、プログラミングの基本的な考え方を身に付けることを目指します。\n\nProgate は独習も可能な学習サービスですが、本勉強会では、CAMPHOR-
+  のコアメンバーがメンターとして付き添い、適宜参加者のサポートをさせていただきます。\n\n\n\n## 対象者\n\n- プログラミングの学習を始め
+ ようと考えている方\n- Ruby の学習に興味がある方\n\n\n## 持ち物\n\n- ノートパソコン\n\n\n## スピーカー\n\n- [亀
+ 岡 亮太](http://ryota-ka.me/) (京都大学経済学部4回)\n\n\n## その他\n\n本勉強会は、京都IT系学生コミュニティ 
+ [CAMPHOR-](https://camph.net/) による勉強会です。\nCAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用
+ になれます。\n\nまた、終了後懇親会を予定しております。是非ご参加ください。\n\n会場の場所が少々分かりにくいため、お困りの際には [@Camph
+ orKyoto](http://twitter.com/CamphorKyoto) にリプライを頂けると対応致します。\n\n## 関連リンク\n\n
+ - [CAMPHOR-](https://camph.net/)\n- [Progate](http://prog-8.com/)\n- [オブジェク
+ ト指向スクリプト言語 Ruby](https://www.ruby-lang.org/ja/)\n\n## アンケートフォーム\n- [http://
+ goo.gl/forms/f1WY5WW5Qa](http://goo.gl/forms/f1WY5WW5Qa)
+LAST-MODIFIED;TZID=Asia/Tokyo:20150425T161608
+SUMMARY:Ruby で学ぶプログラミング入門
+URL:http://atnd.org/events/65030
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150326T184100
+UID:atnd-64386
+DTSTART;TZID=Asia/Tokyo:20150418T100000
+DTEND;TZID=Asia/Tokyo:20150418T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150326T184100
+DESCRIPTION:##Unityでゲームを作る！\nUnity、もしくはゲーム作りに興味がある方に向けた勉強会です。   \n実際に手を動かしな
+ がらゲームをひとつ完成させて、Unityの魅力に存分に触れましょう！\n\n懇親会を含め、参加費は無料です。\n##どんなものを作る？\nこちらからは
+ 特に制限は設けません。Unityで作ったゲームであれば何でもOKです！\n3DアクションゲームやRPG、2Dのシューティングなど作ってみたいものを自由
+ に作っていきましょう！   \nまた Oculus Rift や Leap Motionといったガジェットをこちらの方でご用意する予定ですので、そちら
+ の方も是非ご活用下さい！\n\n※ 開発時間が限られるため、アイデアはイベント当日考えるよりも事前に考えて頂けるとスムーズにご参加頂けます。   \n
+ 以下のサイトを見ながら考えるとイメージがつきやすいかと思われます。\n   \n\n[Unity入門 (全26回) - プログラミングならドットインス
+ トール](http://dotinstall.com/lessons/basic_unity)   \n[初心者向け公式チュートリアル](http:/
+ /japan.unity3d.com/developer/document/tutorial/)   \n[中級者向け公式チュートリアル](http:
+ //unity3d.com/learn/tutorials/modules)\n\n##対象者\nUnity、もしくはゲーム作りに興味のある方。   
+ \nプログラミング経験のない方や、Unityを触ったことがない初心者の方も大歓迎です！\n\n##持ち物\nノートパソコン   \nWindows ま
+ たは Mac OS X が入ったもの。  \n\nUnityはダウンロード、インストールに時間がかかるので、あらかじめ最新版のUnity 5をインスト
+ ールしておくようお願いします。   \nまた、初回起動時にアカウントの登録が求められるのですが、そちらの方も済ませておくようよろしくお願いします。\n
+ ##当日のスケジュール\n\n・10:00-11:00 Unityやエディタの触り方等の説明   \n・11:00-17:00 開発&リリース (昼食
+ は各自で)   \n・17:00-18:00 成果発表   \n・18:00-20:00 懇親会\n\n##景品\nイベント終了時に優秀な製作物を決め
+ 、制作者には株式会社リクルートホールディングス様より以下の景品が贈呈されます！\n\n・Leap Motion + お食事券  \n・ゲームパッド +
+  お食事券\n   \n両方の景品に人事の方にご飯をご馳走して貰えるお食事券が付いてきます！\n\n##メンター\n当日はメンターとして [CAMPH
+ OR-メンバー](https://camph.net/members/) が会場に居ます。解らない事があった際にはお気軽にご質問下さい。\n##その他
+ \n本イベントは、京都IT系学生コミュニティ [CAMPHOR-](https://camph.net/) 主催、[株式会社リクルートホールディングス
+ ](http://www.recruit.jp/)後援により開催します。   \nCAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用に
+ なれます。   \n会場の場所が少々分かりにくいため、   \nお困りの場合は [@CamphorKyoto](https://twitter.com
+ /CamphorKyoto) にリプライを飛ばして頂けると対応致します。\n##関連リンク\n[CAMPHOR-](https://camph.net
+ /)   \n[株式会社リクルートホールディングス](http://www.recruit.jp/)   \n[Unity入門 (全26回) - プロ
+ グラミングならドットインストール](http://dotinstall.com/lessons/basic_unity)   \n[初心者向け公式チュ
+ ートリアル](http://japan.unity3d.com/developer/document/tutorial/)   \n[中級者向け公式チ
+ ュートリアル](http://unity3d.com/learn/tutorials/modules)
+LAST-MODIFIED;TZID=Asia/Tokyo:20150412T005353
+SUMMARY:Unityハンズオン勉強会
+URL:http://atnd.org/events/64386
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150317T071002
+UID:atnd-64077
+DTSTART;TZID=Asia/Tokyo:20150324T160000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150317T071002
+DESCRIPTION:## 概要\n京大周辺で活動している京大マイコンクラブ (KMC) と CAMPHOR- の親睦を深めるため\, 合同LT会を
+ 開催します. CAMPHOR- や KMC 以外の方の参加も歓迎します.\n\n**LT 発表したい方は参加登録の際にその旨を明記してください**\n
+ \n## 参加費\n**株式会社サイバーエージェント様** がフードスポンサーとして\, 飲み物とピザを提供してくださいます!!\n\n## スケジュ
+ ール\n\n- 16:00-16:20 オープニング\n- 16:20-18:00 LT\n- 18:00-19:00 懇親会 (食事)\n- 19:
+ 00-20:00 LT\n- 20:00- エンディング・随時解散\n\n## LT 発表者の方へ\n\n- 発表時間は1人5分 (厳守) です  \
+ n- プロジェクターを利用できます (VGA または Thunderbolt (Mini Display Port))  \n- 基本的には1人1枠で
+ すが\, 時間に余裕がある場合は飛び入りでも OK です  \n- イベント終了後スライドを Slideshare 等で公開していただけるとありがたい
+ です\n\n## スライド\n* [pasta-k 「とにかくシュッと検索っぽいことをしたい！」](http://www.slideshare.net
+ /pastak/ss-46212063)\n* [prime 「BFmeta」](http://www.slideshare.net/KMC_JP/b
+ fmeta)\n* [morishin 「みんなのReactiveX」](https://speakerdeck.com/morishin/minna
+ falsereactivex)\n* [ymyzk 「iOS 開発のいま」](http://www.slideshare.net/yusukemiy/
+ 20150324-camphor-ltios)\n\n## その他\nCAMPHOR- HOUSE 内では\, 電源と Wi-Fi (2.4GHz/5
+ GHz) を利用できます.\n\n会場の場所がわからない場合は [@CamphorKyoto](https://twitter.com/camphor
+ kyoto) へ連絡してください.\n\n参加団体\n\n- [CAMPHOR-](https://camph.net/)  \n- [京大マイコンク
+ ラブ (KMC)](http://www.kmc.gr.jp/)\n\nフードスポンサー\n\n- [株式会社サイバーエージェント様](https:/
+ /www.cyberagent.co.jp/)
+LAST-MODIFIED;TZID=Asia/Tokyo:20160428T150329
+SUMMARY:CAMPHOR- x KMC 合同LT会
+URL:http://atnd.org/events/64077
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150217T192527
+UID:atnd-62932
+DTSTART;TZID=Asia/Tokyo:20150317T170000
+DTEND;TZID=Asia/Tokyo:20150317T183000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150217T192527
+DESCRIPTION:<h2>講座内容</h2>\n<h3>■ビジネスモデルについて</h3>\n・そもそもアドテクとは？\n・アドテクを構成するい
+ ろんなPlatform\n・アドテクにおけるビックデータ\n\n<h3>■開発について</h3>\n・開発体制\n・アドテクのエンジニアがやっている事
+ \n・ビックデータ処理\n・機械学習や統計学の活用\n\n<h2>スピーカー</h2>\n馬場惇（株式会社サイバーエージェント　AdTech Stud
+ io エンジニア）\n\n<h2>スピーカーより一言</h2>\n今非常にアツいアドテクノロジーについて、新卒1年目で1年間アドテクに従事してきた目線
+ からご紹介します。アドテクは、サーバーサイドの高速並列処理やインフラ技術、機械学習や統計学などの学術技術がふんだんに盛り込まれて、常に最新の技術が用い
+ られる領域です。アドテクを知らない人も広告ウザいと思ってる人も大歓迎なので、まずはお気軽に聞いていってください。\n\n<h2>対象者</h2>\nア
+ ドテクノロジーに興味のある学生\n\n<h2>当日のスケジュール</h2>\n・サイバーエージェントの紹介 (10分)\n・アドテクについて（60分）
+ \n・質疑応答（20分）\n\n勉強会終了後、懇親会(無料)を予定しています。\n\n<h2>その他</h2>\n本勉強会は、京都IT系学生コミュニテ
+ ィ <a href="https://camph.net/">CAMPHOR-</a> と、<a href="https://www.cyberage
+ nt.co.jp/">株式会社サイバーエージェント</a>による合同勉強会です。\n\nCAMPHOR- HOUSE 内では、電源と Wi-Fi をご
+ 利用になれます。\n\n会場の場所が少々分かりにくいため、\nお困りの場合は <a href="https://twitter.com/Camphor
+ Kyoto">@CamphorKyoto</a> にリプライを飛ばして頂けると対応致します。\n\n<h2>関連リンク</h2>\n<a href="
+ https://camph.net/">CAMPHOR-</a>\n<a href="https://www.cyberagent.co.jp/">株
+ 式会社サイバーエージェント</a>\n\n<h2>アドテクに関する参考リンク</h2>\n<a href="https://www.cyberagen
+ t.co.jp/ir/personal/adtech/">日本一やさしいアドテク教室</a>\n<a href="http://adtech.cybe
+ ragent.io/">CyberAgent AdTech Studio</a>\n<a href="http://gihyo.jp/dev/seri
+ al/01/cyberagent/0063">アドテクスタジオのエンジニアに聞くScalaの魅力</a>\n<a href="http://www.s
+ lideshare.net/prir/ss-35918532">日本におけるアドテク市場とサイバーエージェントのアドテク事業について</a>
+LAST-MODIFIED;TZID=Asia/Tokyo:20150309T102636
+SUMMARY:【CAMPHOR- x サイバーエージェント】アドテク入門講座
+URL:http://atnd.org/events/62932
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150220T155018
+UID:atnd-63070
+DTSTART;TZID=Asia/Tokyo:20150308T100000
+DTEND;TZID=Asia/Tokyo:20150308T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150220T155018
+DESCRIPTION:<h2>作りきる！</h2>\n今回のイベントでは、「アイデア→コーディング(開発)→リリース (公開)する」という一連の流れ
+ を体験できます！\n\n懇親会を含め、参加費は無料です。\n\n<h2>何をつくる？</h2>\n当日に作るものはWebに関係するものですが、細かいア
+ イデアは参加者の自由です。\n普段考えているアイデアを一緒に形にしましょう。\n\n※ 開発時間が限られるため、アイデアはイベント当日考えるよりも事前
+ に考えて頂けるとスムーズにご参加頂けます。\n\n<h3>例</h3>\n* HTMLとCSSで自己紹介ページを作る。\n* JavaScriptでテ
+ トリスを作る。\n* Ruby on Railsでブログを作る。\n* Pythonで検索エンジンを作る。\n\n<h2>対象者</h2>\n何かを作
+ って公開したい学生。\n*最低でもHTMLを少し書いたことがある人を想定しています。\nHTMLに自信の無い方は以下の動画を事前に観て頂けると安心して
+ 参加頂けます。*\n "HTML入門 (全16回) - プログラミングならドットインストール":http://dotinstall.com/lesso
+ ns/basic_html_v2\n\n<h2>持ち物</h2>\nノートパソコン\nWindows でも Mac OS X でも Linux でも構
+ いません！\n\n<h2>メンター</h2>\n当日はメンターとして "CAMPHOR-メンバー":https://camph.net/members
+ / が会場に居ます。解らない事があった際にはお気軽にご質問下さい。\n\n<h2>当日のスケジュール</h2>\n* 10:00-10:30 オープニ
+ ング\n* 10:30-17:00 開発&リリース (昼食は各自で)\n* 17:00-18:00 成果発表\n* 18:00-20:00 懇親会\n
+ \n懇親会のフードスポンサーは株式会社リクルートホールディングス様です！\n\n<h2>景品</h2>\nイベント終了時に優秀な製作物を決め、制作者に
+ は株式会社リクルートホールディングス様より以下の景品が贈呈されます。\n\n・レッドブル1ケース(24本)\n・人事とのお食事券(人事にご飯をご馳走し
+ てもらえます！)\n\n<h2>その他</h2>\n本イベントは、京都IT系学生コミュニティ <a href="https://camph.net/"
+ >CAMPHOR-</a> 主催、<a href="http://www.recruit.jp/">株式会社リクルートホールディングス</a>後援によ
+ り開催します。\nCAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用になれます。\n会場の場所が少々分かりにくいため、\nお困りの場合
+ は <a href="https://twitter.com/CamphorKyoto">@CamphorKyoto</a> にリプライを飛ばして頂け
+ ると対応致します。\n\n<h2>関連リンク</h2>\n<a href="https://camph.net/">CAMPHOR-</a>\n<a 
+ href="http://www.recruit.jp/">株式会社リクルートホールディングス</a>
+LAST-MODIFIED;TZID=Asia/Tokyo:20150308T111016
+SUMMARY:【CAMPHOR- リクルート】1 day Hackathon 
+URL:http://atnd.org/events/63070
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150205T011116
+UID:atnd-62336
+DTSTART;TZID=Asia/Tokyo:20150226T173000
+DTEND;TZID=Asia/Tokyo:20150226T183000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150205T011116
+DESCRIPTION:h1. 【CAMPHOR-×カカクコム】食べログ流 スマホアプリの作り方\n\nh2. 内容\n\nこれまでの食べログの歩みと
+ 共に、現在のWebシステムの裏側やデータ処理の方法、また、どのような流れでスマートフォンアプリの開発が行われているのかを学生の皆様にお話しします。\n
+ \nh2. スピーカー\n\n* 土肥 寛基（株式会社カカクコム 食べログ本部 サービス開発部 部長）\n* 磯貝 佳典（株式会社カカクコム 食べログ
+ 本部 サービス開発部 Android アプリ開発エンジニア）\n\nh2. 対象者\n\nエンジニアを目指している学生\n\nh2. 持ち物\n\nな
+ し\n\nh2. 食べログのエンジニアとして働く魅力\n\n* 月間6\,000万人（スマートフォン/フィーチャーフォン含む）以上が利用する大規模サイ
+ トのシステム開発・運用のため、仕事のインパクトが大きい\n* 日々増大するトラフィックを捌くために必要な負荷分散技術や効率性など、大規模サイトならでは
+ の技術が身に付く\n* ユーザーから生の声を聞くことができる。また、自分自身が便利と思えるサービスを作り上げる楽しみがあり、世の中からの反響も大きい\
+ n* 美味しいお店によく行くことができる\n\nh2. 当日のスケジュール\n\n* 食べログの歩み、アプリについてのお話（1時間）\n* 質疑応答（
+ 30分）\n\n勉強会終了後懇親会を予定しています。\nカカクコム様のご厚意で、食事・お酒等を負担していただけることになっております。\n是非ご参加く
+ ださい。\n\nh2. その他\n\n本勉強会は、京都IT系学生コミュニティ <a href="http://camph.net" target="_
+ blank">CAMPHOR-</a> と、<a href="http://corporate.kakaku.com/" target="_blank
+ ">株式会社カカクコム様</a>による合同勉強会です。\n\nCAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用になれます。\n\n会
+ 場の場所が少々分かりにくいため、お困りの際には <a href="https://twitter.com/CamphorKyoto" target="
+ _blank">@CamphorKyoto</a> にリプライを頂けると対応致します。
+LAST-MODIFIED;TZID=Asia/Tokyo:20150217T232657
+SUMMARY:【CAMPHOR-×カカクコム】食べログ流 スマホアプリの作り方
+URL:http://atnd.org/events/62336
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150112T161018
+UID:atnd-61294
+DTSTART;TZID=Asia/Tokyo:20150117T160000
+DTEND;TZID=Asia/Tokyo:20150117T190000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150112T161018
+DESCRIPTION:h2. 概要\n\n座談会形式のイベントです. 参加者それぞれのコマンドライン環境 (端末エミュレータ\, dotfiles\
+ , フォントなど) について語り合いましょう.\nコマンドライン環境をあまり使ったことのない人も大歓迎です. おすすめ設定を経験者からもらえるかもしれ
+ ません.\n\nh2. 持ち物\n\nノートパソコン (推奨)\nOS X ユーザーが多いと思いますが\, Linux\, Unix ユーザーも問題い
+ ないです.\nWindows の人は頑張ってください!\n\nh2. その他\n\n本勉強会は、京都のIT系学生コミュニティ <a href="htt
+ ps://camph.net/">CAMPHOR-</a> による勉強会です.\nどなたでもお気軽にご参加いただけます.\n\nCAMPHOR- HO
+ USE 内では\, 電源と Wi-Fi をご利用になれます.\n\n会場の場所が少々分かりにくいため\, お困りの場合は <a href="https
+ ://twitter.com/CamphorKyoto">@CamphorKyoto</a> にリプライを飛ばして頂けると対応致します.\n\nh2.
+  関連リンク\n\n<a href="https://camph.net/">CAMPHOR-</a>
+LAST-MODIFIED;TZID=Asia/Tokyo:20150112T161018
+SUMMARY:コマンドライン環境について語る会
+URL:http://atnd.org/events/61294
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20150107T085807
+UID:atnd-61055
+DTSTART;TZID=Asia/Tokyo:20150110T150000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20150107T085807
+DESCRIPTION:h2. 概要\n\n京大周辺で活動している 京大マイコンクラブ (KMC) と CAMPHOR- の親睦を深めるための交流会を
+ 開催します. お菓子をつまみながらワイワイ楽しくやりましょう.\n\nh2. 参加費\n\n未定です. お菓子代 (数百円程度) を徴収するかもしれま
+ せん.\n\nh2. その他\n\nCAMPHOR- HOUSE 内では、電源と Wi-Fi を利用できます.\n\n会場の場所が少々分かりにくいため
+ 、\nお困りの場合は <a href="https://twitter.com/CamphorKyoto">@CamphorKyoto</a> にリプ
+ ライを飛ばして頂けると対応致します。\n\nh2. 関連リンク\n\n<a href="https://camph.net/">CAMPHOR-</a
+ >\n<a href="http://www.kmc.gr.jp">京大マイコンクラブ (KMC)</a>
+LAST-MODIFIED;TZID=Asia/Tokyo:20150112T154809
+SUMMARY:CAMPHOR- x KMC 交流会
+URL:http://atnd.org/events/61055
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20141216T165006
+UID:atnd-60391
+DTSTART;TZID=Asia/Tokyo:20141220T170000
+DTEND;TZID=Asia/Tokyo:20141220T180000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20141216T165006
+DESCRIPTION:h2. 概要\n\nVimと並んで代表的なエディタであるEmacsについての入門講座をやります。\n主にEmacsを触ったこと
+ がない、あるいは普段使っていない人を対象に、最新のEmacsの雰囲気と自分で勉強しながら使っていくための基本的なことを解説します。\n\n特に文書作成
+ やプログラミングにおいて、普段解説者がどう使ってるかをベースに説明していく予定です。\n\nh2. 持ち物\n\nEmacs24.4の入ったノートパソ
+ コン。\n解説の際には環境にMac OSXを想定しますが、Linux・Windowsなどでも問題ありません。\nOSXの方はCocoa版を、Linux
+ の方はNTEmacsを導入することをおすすめします。\n\nh2. 詳細\n\n目の前で僕の操作を見て頂き、それをさらに参加者の方が実際にやってもらう
+ ことで、具体的なEmacsでの作業の雰囲気を感じてもらう形式でやります。\n\n* Emacsの基本的な操作 (10分)\nカーソル移動・ファイルを開
+ く、保存等といった基本的な操作と概念を見ていきます。\n\n* 拡張入門 (30分)\nEmacsにおける拡張について、現在定番となっているものを取り
+ 上げてながら、自分好みのEmacsを作るための基本的な内容を見ていきます。\nEmacs Lispによる拡張に触れてもらうことで、Emacsにおけるプ
+ ログラミングがどのようなものかを感じてもらう予定です。\n\n* Org mode (20分)\n文書作成を行うための多機能な拡張であるOrg mod
+ eについて簡単に説明します。\n\n\nh2. その他\n\n本勉強会は、京都IT系学生コミュニティ <a href="https://camph.n
+ et/">CAMPHOR-</a> による勉強会です。\nどなたでもお気軽にご参加いただけます。\n\n勉強会終了後、懇親会を予定しています。是非ご参
+ 加ください。\n\nCAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用になれます。\n\n会場の場所が少々分かりにくいため、\nお困り
+ の場合は <a href="https://twitter.com/CamphorKyoto">@CamphorKyoto</a> にリプライを飛ばし
+ て頂けると対応致します。\n\nh2. 関連リンク\n\n<a href="https://camph.net/">CAMPHOR-</a>
+LAST-MODIFIED;TZID=Asia/Tokyo:20141218T151447
+SUMMARY:CAMPHOR- 土曜講座【Emacs入門】
+URL:http://atnd.org/events/60391
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20141201T002743
+UID:atnd-59820
+DTSTART;TZID=Asia/Tokyo:20141214T170000
+DTEND;TZID=Asia/Tokyo:20141214T180000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20141201T002743
+DESCRIPTION:<h2><a href="http://www.seleniumhq.org/">Selenium</a>について</h2>\
+ nWebアプリケーションの自動テストを実施するにあたって、より厳密なEnd-to-Endテストを実施するためにはブラウザの操作を自動化できることが不可
+ 欠です。\nSeleniumはブラウザの操作を簡単に自動化できる、世界中で利用されているツールです。\n\n<h2>内容</h2>\nまずはSelen
+ iumとは何ぞや、というところを簡単にご紹介します。\nその後、ハンズオン形式でSeleniumを使ってブラウザの操作を自動化する簡単なプログラムを作
+ 成します。\n\n<h2>スピーカー</h2>\n岡田勇樹（サイボウズ株式会社大阪開発部 Webアプリケーションエンジニア）\n<a href="ht
+ tps://twitter.com/y_okady">@y_okady</a>\n\n<h2>持ち物</h2>\nJava\, Python\, Ru
+ by\, C# のいずれかの言語のコーディングができるノートパソコン\n\n<h2>サイボウズについて</h2>\nサイボウズでは、大規模Webアプリ
+ ケーション開発の一環として、自動テストを積極的に取り入れています。\nエンジニアブログ「Cybozu Inside Out」では、自動テストなど様々な
+ 技術情報を発信しています。\n<a href="http://developer.cybozu.co.jp/tech/">http://develop
+ er.cybozu.co.jp/tech/</a>\n\n<h2>当日のスケジュール</h2>\n- Seleniumの紹介 (10分)\n- ハンズ
+ オン (40分)\n- まとめ (10分)\n\n勉強会終了後、懇親会を予定しています。\nサイボウズ様のご厚意で、食事・お酒等を負担していただけるこ
+ とになっております。\n是非ご参加ください。\n\n<h2>その他</h2>\n本勉強会は、京都IT系学生コミュニティ <a href="https:
+ //camph.net/">CAMPHOR-</a> と、<a href="http://cybozu.co.jp/">株式会社サイボウズ様</a>に
+ よる合同勉強会です。\nどなたでもお気軽にご参加いただけます。\n\nCAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用になれます。\
+ n\n会場の場所が少々分かりにくいため、\nお困りの場合は <a href="https://twitter.com/CamphorKyoto">@C
+ amphorKyoto</a> にリプライを飛ばして頂けると対応致します。\n\n<h2>関連リンク</h2>\n<a href="http://cy
+ bozu.co.jp/">株式会社サイボウズ</a>\n<a href="http://developer.cybozu.co.jp/tech/">C
+ ybozu Inside Out | サイボウズエンジニアのブログ</a>\n<a href="https://camph.net/">CAMPHOR
+ -</a>
+LAST-MODIFIED;TZID=Asia/Tokyo:20141207T181851
+SUMMARY:【CAMPHOR- × サイボウズ】Selenium 勉強会
+URL:http://atnd.org/events/59820
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20141006T185450
+UID:atnd-57360
+DTSTART;TZID=Asia/Tokyo:20141018T090000
+DTEND;TZID=Asia/Tokyo:20141019T090000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20141006T185450
+DESCRIPTION:クックパッドが開催している開発コンテスト24に、CAMPHOR-でわいわい参加しましょう！\n10/18 (土) 午前9時にテ
+ ーマが発表されて、24時間で開発するコンテストです。\n個人でもチームでも良さそうです。\n賞品賞金獲りましょう！\n\nどなたでもご参加ください〜\
+ nCAMPHOR- を知らない人でもOKです〜\n\nコンテストページはこちら: https://info.cookpad.com/24contest
+ _5
+LAST-MODIFIED;TZID=Asia/Tokyo:20141006T185450
+SUMMARY:クックパッド開発コンテスト24 @CAMPHOR- HOUSE
+URL:http://atnd.org/events/57360
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140923T094858
+UID:atnd-56810
+DTSTART;TZID=Asia/Tokyo:20141011T180000
+DTEND;TZID=Asia/Tokyo:20141011T190000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140923T094858
+DESCRIPTION:<h2>概要</h2>\n「jQuery で非同期通信をする」「Twitter の API を利用する」などコンピューターネッ
+ トワークを簡単にまた頻繁に利用することが増えてきました。\nしかし、コンピューターネットワークについての知識が乏しく、エラーが発生した場合の対処に困っ
+ たり、パフォーマンスに問題が発生している場合を見かけます。\n\nコンピューターネットワークについての基本的な知識は多くのプログラマーやデザイナーにと
+ って必須となりつつあります。\nこの短時間で話せる内容は限られますが、少しでもみなさんのネットワークへの理解を高められれば幸いです。\n\nどなたでも
+ ご自由にご参加お待ちしております!\n\n<h2>詳細</h2>\n<ul>\n<li>コンピューターネットワークとは</li>\n<li>TCP/I
+ P</li>\n<ul>\n<li>Application Layer (HTTP)</li>\n<li>Transport Layer (TCP /
+  UDP)</li>\n<li>Internet Layer (IP)</li>\n<li>Link Layer (MAC)</li>\n</ul>\
+ n<li>デモ</li>\n<li>質問</li>\n</ul>\n\n<h2>会場</h2>\nCAMPHOR- HOUSE\n\n会場の場所が少々
+ 分かりにくいため、お困りの場合は @CamphorKyoto (Twitter) にリプを飛ばしていただければご案内します。\n\n<h2>その他</
+ h2>\n「CAMPHOR-とは？」\n"http://camph.net/about/":http://camph.net/about/\n\n講座
+ 担当者について\n"http://www.ymyzk.com/":http://www.ymyzk.com/
+LAST-MODIFIED;TZID=Asia/Tokyo:20141004T124028
+SUMMARY:CAMPHOR- 土曜講座【コンピューターネットワーク入門】
+URL:http://atnd.org/events/56810
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140729T121240
+UID:atnd-54442
+DTSTART;TZID=Asia/Tokyo:20140928T170000
+DTEND;TZID=Asia/Tokyo:20140928T180000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140729T121240
+DESCRIPTION:<h2>概要</h2>\nAngular.jsやBackbone.jsを始めとした\n『MV* フレームワーク』とカテゴライズ
+ されるJavaScriptのフレームワークは今、まさに百花絢爛。\n\n本セッションでは、\nそんなJavaScriptフレームワークの歩き方について
+ 、\n 『もう迷わない』ではなく、正しい『迷い方』について紹介します。\n\n<h2>スピーカー紹介</h2>\n\n斉藤祐也（株式会社リッチメディア
+ 　エンジニア）\n\n<a href="http://html5experts.jp/cssradar/">http://html5experts.j
+ p/cssradar/</a>\n\n<h2>その他</h2>\n\n本勉強会は、\n京都IT系学生コミュニティCAMPHOR-(<a href="h
+ ttp://camph.net">camph.net</a>)\nと\n株式会社リッチメディア(<a href="http://www.rich.co
+ .jp/">www.rich.co.jp/</a>)\nによる合同勉強会です。\n\n東京で数々のWebの勉強会を行っているリッチメディア様の\nノウ
+ ハウが聞ける勉強会をCAMPHOR-HOUSEで開催することとなりました！\n\nこちらがリッチメディア様のTechBlogとなっております！\n<a
+  href="http://www.rich.co.jp/tech/">www.rich.co.jp/tech</a>\n\n株式会社リッチメディアの
+ 提供サービスの参考記事はこちらになります。\n<a href="http://jp.techcrunch.com/2014/05/15/jp20140
+ 515hair">http://jp.techcrunch.com/2014/05/15/jp20140515hair/</a>\n\n<a href
+ ="http://www.nikkei.com/article/DGXNZO71023880Q4A510C1TJE000/">http://www.n
+ ikkei.com/article/DGXNZO71023880Q4A510C1TJE000/</a>\n\n\n\nお気軽にご参加ください！\n\n
+ CAMPHOR-HOUSE 内は電源と Wi-Fi を利用出来ます。\n\n会場の場所が少々分かりにくいため、\nお困りの場合は@CamphorKyo
+ toにリプを飛ばして頂けると対応します。\n\nCAMPHOR-とは?: <a href="http://camph.net">http://camp
+ h.net</a>\n\n<h3>勉強会アンケートはこちらです</h3>\n\n<a href="https://docs.google.com/fo
+ rms/d/1OOEKO372lbSIwYEvKGiLZzZuggzNS5kqLPjvb4NqSzs/viewform">https://docs.g
+ oogle.com/forms/d/1OOEKO372lbSIwYEvKGiLZzZuggzNS5kqLPjvb4NqSzs/viewform</a>
+LAST-MODIFIED;TZID=Asia/Tokyo:20140928T174855
+SUMMARY:JavaScriptフレームワークの歩き方
+URL:http://atnd.org/events/54442
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140616T113208
+UID:atnd-52473
+DTSTART;TZID=Asia/Tokyo:20140628T190000
+DTEND;TZID=Asia/Tokyo:20140628T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140616T113208
+DESCRIPTION:WWDC14 参加者による WWDC14 のレポートを行います.\n時間があれば Swift 等についてもお話しする予定です.
+ \n\n特に必要な知識等はありません.\nどなたでもご自由にご参加お待ちしております!\n\n<h2>会場</h2>\n\nCAMPHOR-HOUSE
+ \n\n会場の場所が少々分かりにくいため、\nお困りの場合は @CamphorKyoto (Twitter) にリプを飛ばして頂くとありがたいです。\
+ n\n<h2>その他</h2>\n「CAMPHOR-とは？」\n"http://camph.net/about/":http://camph.net/
+ about/\n\n講座担当者について\n"http://www.ymyzk.com/":http://www.ymyzk.com/
+LAST-MODIFIED;TZID=Asia/Tokyo:20140616T113743
+SUMMARY:CAMPHOR-土曜講座【WWDC14 レポート + α】
+URL:http://atnd.org/events/52473
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140605T162638
+UID:atnd-52080
+DTSTART;TZID=Asia/Tokyo:20140614T190000
+DTEND;TZID=Asia/Tokyo:20140614T203000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140605T162638
+DESCRIPTION:<h1>◯◯.jsを語る会</h1>\n\n<h2>＜htmlday＞</h2>\n今回のイベントは座談会形式です。\n<a 
+ href="http://www.htmlday.jp/">htmlday</a>の開催に合わせて開催します！\n\n<ul>\n<li>こんな事でき
+ るjsライブラリー見つけた！</li>\n<li>おしゃれなものが簡単につくれるjsライブラリーをみんなに教えたい。</li>\n<li>こんなjsラ
+ イブラリーがあればいいのにな</li>\n</ul>\nのような事をみんなで話し合って、情報共有ができればなと思ってます。\n\n<h2>会場</h2
+ >\n\nCAMPHOR-HOUSE\n\n会場の場所が少々分かりにくいため、\nお困りの場合は@CamphorKyoto(Twitter)にリプを飛
+ ばして頂くとありがたいです。\n\n座談会形式ですがjsに関係していれば突然のLTも歓迎です。\n\n\nCAMPHOR-とは?: <a href="
+ http://camph.net/">http://camph.net/</a>
+LAST-MODIFIED;TZID=Asia/Tokyo:20140605T162638
+SUMMARY:<htmlday>◯◯.jsを語る会@CAMPHOR-HOUSE
+URL:http://atnd.org/events/52080
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140526T174953
+UID:atnd-51535
+DTSTART;TZID=Asia/Tokyo:20140531T130000
+DTEND;TZID=Asia/Tokyo:20140531T150000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140526T174953
+DESCRIPTION:<h4>Git勉強会</h4>\n\n今回の勉強会は２部構成で開きます\n第１部[13:00~14:30]\n◎初心者のための
+ Git講座\n・Gitとはなんぞや\n・どんな使い方が出来んねや\n・ほんでどう使うん\nを説明した後に、実際にハンズオン形式で\n皆さんに試してもら
+ う時間を取ります\n\n※今回はCUIコマンドでの操作になります。ご注意ください。\n\n第2部[14:30~]（終了時刻は適当に）\n◎Git座談会
+ \n「実際に使われているGitを用いたワークフローにはどのような物があるのか」\nをテーマに、ディスカッションをやります\nディスカッションについては
+ 、話せる人を中でも用意していますが、\n参加者の皆さんにも、各自の考え等お話し頂ければと思います\n\n※経験者の方は第2部からいらっしゃいませ\n\
+ n---\n\n<h4>事前準備</h4>\nノートパソコンをお持ちの方は、事前にGit環境を整えてこられることをお勧めします。\nOSはLinux\
+ , Unix\, Mac\, Windows等どれでも構いません。\nなお、講座ではgit 1.9.3を使用予定です。\n\n参考サイト\n<a hr
+ ef="http://www.e2esound.com/wp/2013/07/03/git-kai_how_to_install_git_with_h
+ omebrew/">Mac OSX</a>\n<a href="http://www.02.246.ne.jp/~torutk/git/gitonwi
+ ndows.html">Windows</a> (導入は前半のmsysgitのみで大丈夫です）\n\n---\n<h4>会場</h4>\n<a hre
+ f="https://camph.net/house">CAMPHOR-HOUSE</a>\n電源とWi-Fiが利用出来ます。\n\n<a href=
+ "https://camph.net">CAMPHOR-とは？</a>\n\n会場の場所が少々分かりにくいため、\nお困りの場合は@CamphorKy
+ oto(Twitter)にリプを飛ばして頂けたらと思います。\n\n\n\n\n\n\n\n\n
+LAST-MODIFIED;TZID=Asia/Tokyo:20140526T181717
+SUMMARY:Git勉強会 <初心者・経験者向けの２部構成>
+URL:http://atnd.org/events/51535
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140522T142422
+UID:atnd-51351
+DTSTART;TZID=Asia/Tokyo:20140524T190000
+DTEND;TZID=Asia/Tokyo:20140524T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140522T142422
+DESCRIPTION:<h3>AWS勉強会とは？</h3>\n\n主にEC2の使い方をレクチャーしたいと思います。\n\nWebサービス作る際に、「
+ AWSのEC2使うのって実際どうなの？」って人とか、\n「そもそもクラウドサービス使ったことない！」っていう人とか\nその辺の人達は気軽にご参加くださ
+ い！\n\n当日の流れとしては、申し込みから運用までのフェーズをスクリーン上で再現します。\n見るだけでもよし、一緒に手を動かしてやるのもよし。\n\
+ n<h3>会場</h3>\nCAMPHOR-HOUSE(http://camph.net/house)\n\n会場の場所が少々分かりにくいため、\nお
+ 困りの場合は@CamphorKyoto(Twitter)にリプを飛ばして頂くとありがたいです。\n\n<h3>講座内容</h3>\n・インスタンスを立
+ ち上げるとは？\n・新規インスタンスでWebサーバ構築してみよう！\n・AMIの作り方\n・ロードバランサで負荷分散\n\nその他随時追加。\n\n-
+ -----------------------------------\n\nCAMPHOR-とは?: camph.net\n講座担当者について: h
+ ttp://kohey18.github.io/about/\n\n
+LAST-MODIFIED;TZID=Asia/Tokyo:20140522T142540
+SUMMARY:AWS勉強会！入門編！ @CAMPHOR-HOUSE
+URL:http://atnd.org/events/51351
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140406T003342
+UID:atnd-49435
+DTSTART;TZID=Asia/Tokyo:20140420T190000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140406T003342
+DESCRIPTION:プログラミング言語 Python を使って\, プログラミング入門講座を行います.\n主な対象は<strong>プログラミング
+ を始めてみたい方</strong>と\, Pythonを始めてみたい方です.\n\nこの講座だけでプログラミングが出来るようになる訳ではないですが\,
+ \nこれからどのように学んでいけば良いかも含めてお話しする予定です.\n\n皆さんの参加をお待ちしています!\n\n---\n\nノートPC をお持ち
+ の方は事前に Python をインストールして持参されることをお勧めします.\nOS は Linux\, Unix\, Mac\, Windows 等
+ どれでも構いません.\n既にインストールされていることがありますのでご注意ください.\nなお\, 講座では Python 2.7.6 を使用予定です.
+ \n\nダウンロードはこちらから: http://www.python.jp/download/\n(パッケージマネージャ等を利用しても構いません)\
+ n\nCAMPHOR- HOUSE 内は電源と Wi-Fi を利用出来ます.\n\n---\n\n講座内容 (予定)\n# イントロダクション\n# 
+ プログラミングとは?\n初心者向けにプログラムやプログラミング言語などの言葉について説明します.\n# Python とは?\n他のプログラミング言語
+ との比較を交えつつ\, Python がどのような言語なのか説明します.\n# Python チュートリアル\n公式ドキュメントのチュートリアルの内容
+ をベースに Python を使ってみます.\n# まとめ\nプログラミングを今後も行なっていくにあたって\, どのように勉強するのが良いかなどを経験者
+ の意見も交えつつ考えます.\n\n---\n\n会場の場所が少々分かりにくいため、お困りの場合は<a href="https://twitter.co
+ m/CamphorKyoto">@CamphorKyoto</a>にリプを飛ばして頂くか、<b>090-2944-8820</b> (森川)までご連絡
+ 下さい。\n\nCAMPHOR-とは?: "camph.net":http://camph.net/about/\n講座担当者について: "ymyzk
+ .com":http://www.ymyzk.com/
+LAST-MODIFIED;TZID=Asia/Tokyo:20140420T000701
+SUMMARY:【春のCAMPHOR- 祭り】Python プログラミング入門
+URL:http://atnd.org/events/49435
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140306T002039
+UID:atnd-48404
+DTSTART;TZID=Asia/Tokyo:20140322T190000
+DTEND;TZID=Asia/Tokyo:20140322T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140306T002039
+DESCRIPTION:サーバー構築についての入門講座です.\n\nサーバー構築とは何なのかという基礎的なところから解説する予定ですので\,\nサーバ
+ ー構築経験のない方の参加も歓迎します.\n\n[内容 (予定)]\n* サーバーとは\n* サーバー構築とは\n* サーバー構築デモ\n* 質疑応答\
+ n\nどなたでもご自由にご参加お待ちしております!\n\n---\n\n「CAMPHOR-とは？」\n"http://camph.net/about/
+ ":http://camph.net/about/\n\n講座担当者について\n"http://www.ymyzk.com/":http://www.
+ ymyzk.com/
+LAST-MODIFIED;TZID=Asia/Tokyo:20140320T023154
+SUMMARY:CAMPHOR-土曜講座【サーバー構築入門】
+URL:http://atnd.org/events/48404
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140307T004245
+UID:atnd-48453
+DTSTART;TZID=Asia/Tokyo:20140315T190000
+DTEND;TZID=Asia/Tokyo:20140315T203000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140307T004245
+DESCRIPTION:Cocos2d-xの入門講座です。\niPhone/Android用カジュアルゲームを作ってみたいけど、まだ手が出せていないと
+ いう方向け。\n簡単なサンプルコードを見せながら解説したいと思います。\n【内容（予定）】\n・Cocos2d-xって？\n・導入してみる\n・基本を
+ 理解する\n・外部連携ツールについて\n・（時間の余裕があれば物理演算について）\n※あるといいかも\nXcodeの入ったMac\n\n「CAMPHO
+ R-とは」\n<a href="http://camph.net/about/">http://camph.net/about/</a>\n「講師」\
+ n<a href="http://cocoabu.com/">http://cocoabu.com/</a>\nおさむ\n\n関西の学生集まれ〜！\n
+LAST-MODIFIED;TZID=Asia/Tokyo:20140307T005816
+SUMMARY:Cocos2d-x 入門講座
+URL:http://atnd.org/events/48453
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140126T022137
+UID:atnd-47340
+DTSTART;TZID=Asia/Tokyo:20140208T190000
+DTEND;TZID=Asia/Tokyo:20140208T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140126T022137
+DESCRIPTION:JavaScriptの上位言語の一つであるCoffeeScriptの入門講座です。\n明日から書けることを目標にCoffeeS
+ criptの基本文法をハンズオン形式で学んでいきたいと思います。\n\n[内容]\n・CoffeeScriptとは\n・開発環境の導入\n・基本文法の
+ 解説\n\n余裕があれば SourceMap\, Grunt\, Harp などについても解説したいと思います\nJSを書いたことがあって node.
+ js が使える環境を予め用意してもらえると理想です\n\nどなたでもご自由にご参加お待ちしております！\n\n----\n\n「CAMPHOR-とは？
+ 」\nhttp://camph.net/about/\n
+LAST-MODIFIED;TZID=Asia/Tokyo:20140126T022137
+SUMMARY:CAMPHOR-土曜講座【CoffeeScript入門】
+URL:http://atnd.org/events/47340
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Tokyo:20140109T002738
+UID:atnd-46946
+DTSTART;TZID=Asia/Tokyo:20140118T190000
+DTEND;TZID=Asia/Tokyo:20140118T200000
+CLASS:PUBLIC
+CREATED;TZID=Asia/Tokyo:20140109T002738
+DESCRIPTION:AWSにおけるEC2の基礎的な使い方から中級レベルまでの講座をCAMPHOR-HOUSE(http:/camph.net)で行
+ います。\n\n[項目予定] \n・インスタンス立ち上げ\n・EC2インスタンスを用いたWebサーバーの構築\n・AMIの使い方\n・LoadBala
+ ncersを用いた分散処理\n\n約一時間の予定です。\n予めAWSのアカウントあれば、理解が深まるかも。\n\nプロジェクターを用いて、講師によるラ
+ イブ形式で行いたいと思います。\n\n\n「CAMPHOR-とは？」\n<a href="http://camph.net/about/">http:
+ //camph.net/about/ </a>\n\nどなたでもご自由にご参加お待ちしております！\n\n\n
+LAST-MODIFIED;TZID=Asia/Tokyo:20140109T003031
+SUMMARY:CAMPHOR-土曜講座【AWS入門(初級〜中級)】
+URL:http://atnd.org/events/46946
+END:VEVENT
+END:VCALENDAR

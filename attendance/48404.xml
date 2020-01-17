@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">48404</event_id>
+      <title>CAMPHOR-土曜講座【サーバー構築入門】</title>
+      <event_url>http://atnd.org/events/48404</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">6</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-03-20 02:31:54 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">157326</user_id>
+          <nickname>morishin</nickname>
+          <twitter_id>morishin127</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">115632</user_id>
+          <nickname>t-morioka</nickname>
+          <twitter_id>mogamogamachine</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">168155</user_id>
+          <nickname>asadama</nickname>
+          <twitter_id>asadaman09</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">168236</user_id>
+          <nickname>takaya1223</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">159227</user_id>
+          <nickname>johnson65</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">228235</user_id>
+          <nickname>shotarok</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

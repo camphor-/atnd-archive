@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">57360</event_id>
+      <title>クックパッド開発コンテスト24 @CAMPHOR- HOUSE</title>
+      <event_url>http://atnd.org/events/57360</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">9</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-10-06 18:54:50 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">157326</user_id>
+          <nickname>morishin</nickname>
+          <twitter_id>morishin127</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">173974</user_id>
+          <nickname>ryota-ka</nickname>
+          <twitter_id>ryotakameoka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">187532</user_id>
+          <nickname>yuapoa</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">187851</user_id>
+          <nickname>wataori</nickname>
+          <twitter_id>cotton_ori</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">187889</user_id>
+          <nickname>a.hok.a</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">187924</user_id>
+          <nickname>inobo</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185276</user_id>
+          <nickname>shota23</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">187971</user_id>
+          <nickname>安田大志</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

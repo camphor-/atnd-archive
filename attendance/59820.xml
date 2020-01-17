@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">59820</event_id>
+      <title>【CAMPHOR- × サイボウズ】Selenium 勉強会</title>
+      <event_url>http://atnd.org/events/59820</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">16</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-12-07 18:18:51 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">228235</user_id>
+          <nickname>shotarok</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">173974</user_id>
+          <nickname>ryota-ka</nickname>
+          <twitter_id>ryotakameoka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">157326</user_id>
+          <nickname>morishin</nickname>
+          <twitter_id>morishin127</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">192394</user_id>
+          <nickname>massan_77</nickname>
+          <twitter_id>massan_77</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">143683</user_id>
+          <nickname>kohey18</nickname>
+          <twitter_id>kouhei18</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">192548</user_id>
+          <nickname>ohmuraken</nickname>
+          <twitter_id>oh_muraken</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">41457</user_id>
+          <nickname>tamagoya</nickname>
+          <twitter_id>asaborake</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">172688</user_id>
+          <nickname>yus_no_s</nickname>
+          <twitter_id>yus_no_s</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">173818</user_id>
+          <nickname>akaaariiiiin</nickname>
+          <twitter_id>akaaariiiiin</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">182706</user_id>
+          <nickname>廣瀬達也</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">52291</user_id>
+          <nickname>fumikony</nickname>
+          <twitter_id>fumikony</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">91613</user_id>
+          <nickname>t_motooka</nickname>
+          <twitter_id>t_motooka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">119418</user_id>
+          <nickname>げんま</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">193182</user_id>
+          <nickname>りゆう</nickname>
+          <twitter_id>R_Jyungorou</twitter_id>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

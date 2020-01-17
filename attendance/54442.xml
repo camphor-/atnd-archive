@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">54442</event_id>
+      <title>JavaScriptフレームワークの歩き方</title>
+      <event_url>http://atnd.org/events/54442</event_url>
+      <limit type="integer">25</limit>
+      <accepted type="integer">18</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-09-28 17:48:55 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">143683</user_id>
+          <nickname>kohey18</nickname>
+          <twitter_id>kouhei18</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">181625</user_id>
+          <nickname>Ryushion</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">183572</user_id>
+          <nickname>Kazuki Takahashi</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">183573</user_id>
+          <nickname>池上祐基</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">183579</user_id>
+          <nickname>terada masaaki</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">184071</user_id>
+          <nickname>hy0si0ka</nickname>
+          <twitter_id>hy0shi0ka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">184737</user_id>
+          <nickname>aryMtsuda</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">167436</user_id>
+          <nickname>びんし</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">228235</user_id>
+          <nickname>shotarok</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185276</user_id>
+          <nickname>shota23</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185473</user_id>
+          <nickname>ttoji</nickname>
+          <twitter_id>_HatRockers</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185549</user_id>
+          <nickname>Shotaro Tanaka</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185573</user_id>
+          <nickname>tsato0305</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185626</user_id>
+          <nickname>hiroki morii</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185667</user_id>
+          <nickname>竹田はじめ</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185863</user_id>
+          <nickname>Ryosuke kubota</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">185926</user_id>
+          <nickname>sensho</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

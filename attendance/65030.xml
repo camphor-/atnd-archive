@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">65030</event_id>
+      <title>Ruby で学ぶプログラミング入門</title>
+      <event_url>http://atnd.org/events/65030</event_url>
+      <limit type="integer">25</limit>
+      <accepted type="integer">20</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-04-25 16:16:08 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">182375</user_id>
+          <nickname>Kenta</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">173974</user_id>
+          <nickname>ryota-ka</nickname>
+          <twitter_id>ryotakameoka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205753</user_id>
+          <nickname>ぷちょ</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205755</user_id>
+          <nickname>hidetakadesu</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205757</user_id>
+          <nickname>つじい</nickname>
+          <twitter_id>U0323k</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">192535</user_id>
+          <nickname>taketo957</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">192091</user_id>
+          <nickname>warusun</nickname>
+          <twitter_id>warusun</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">203124</user_id>
+          <nickname>Danney</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205828</user_id>
+          <nickname>Ueno Motohiro</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205847</user_id>
+          <nickname>oji</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">205889</user_id>
+          <nickname>まりえーる</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">206020</user_id>
+          <nickname>makiron8484</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">206420</user_id>
+          <nickname>yppon</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">206574</user_id>
+          <nickname>yujirookano</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">193674</user_id>
+          <nickname>tanishiking</nickname>
+          <twitter_id>tanishiking</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">206844</user_id>
+          <nickname>Ddaiki</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">206906</user_id>
+          <nickname>いえちゃん</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">207386</user_id>
+          <nickname>ytmatsuge</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

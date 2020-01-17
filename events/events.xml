@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">28</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">72781</event_id>
+      <title>2015 CAMPHOR- 忘年会</title>
+      <catch/>
+      <description>&lt;h2&gt;忘年会のお知らせ&lt;/h2&gt;
+
+&lt;p&gt;みなさま，今年も頑張りましたか？&lt;br&gt;
+CAMPHOR- にちょっとでも関わり合いのあったみんなで，ドイツビールを囲んでワイワイしたいと思います！&lt;br&gt;
+お友達を連れて来てもらっても大歓迎です．&lt;/p&gt;
+
+&lt;h2&gt;詳細&lt;/h2&gt;
+
+&lt;p&gt;日時：12/26(土) 19時スタート&lt;br&gt;
+場所：&lt;a href="http://www.doitsulink.com/sakurasari/"&gt;サクラサリ&lt;/a&gt;（ドイツ料理・CAMPHOR- HOUSEから歩いて5秒！）&lt;br&gt;
+料金：調整中（おそらく，2000 ~ 2500円程度の料理 + 飲んだ分）&lt;/p&gt;
+
+&lt;h2&gt;締め切り&lt;/h2&gt;
+
+&lt;p&gt;お店予約のため，12/24(木) までにATNDでの出欠を確定して下さい！
+締め切りを過ぎていても参加できないわけではないので，参加を押しておいて下さい．&lt;/p&gt;
+
+&lt;h2&gt;連絡先&lt;/h2&gt;
+
+&lt;p&gt;何か連絡が必要な場合は，Twitterで&lt;a href="https://twitter.com/camphorkyoto"&gt;@CamphorKyoto&lt;/a&gt;宛にご連絡下さい！&lt;br&gt;
+CAMPHOR- の運営メンバーに直接連絡をとっていただいても構いません．&lt;/p&gt;
+</description>
+      <event_url>http://atnd.org/events/72781</event_url>
+      <started_at type="datetime">2015-12-26 19:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-12-26 21:00:00 +0900</ended_at>
+      <url>http://www.doitsulink.com/sakurasari/</url>
+      <limit type="integer">25</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町12-13</address>
+      <place>サクラサリ</place>
+      <lat type="decimal">35.0248602</lat>
+      <lon type="decimal">135.7772563</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">19</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-12-23 19:33:15 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">70906</event_id>
+      <title>第2回 プログラミング大相談会</title>
+      <catch/>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;「プログラミングを始めたばかりでよく分からないので誰かに質問したい」・「この言語についてもっと知りたいがどうやって勉強すれば良いのかわからない」・「こういったサービスを作りたいがどこから手をつけたらいいかわからない」・「エディタについて熱く語り合いたい」などプログラミングに関する様々なトピックについて CAMPHOR- のメンバーと自由に相談できるイベントです.&lt;/p&gt;
+
+&lt;p&gt;時間内の出入りは自由となっていますので, お気軽に参加してください.&lt;/p&gt;
+
+&lt;h2&gt;参加費&lt;/h2&gt;
+
+&lt;p&gt;無料&lt;/p&gt;
+
+&lt;h2&gt;スケジュール&lt;/h2&gt;
+
+&lt;p&gt;13:00 〜 20:00 の間, 会場を開けていますので, ご都合の良い時間にお越しください.&lt;/p&gt;
+
+&lt;h2&gt;メンバー&lt;/h2&gt;
+
+&lt;p&gt;今回参加する CAMPHOR- のメンバーは以下のようなことについてお話できます. ここに書かれていないことについての相談も大歓迎です.&lt;/p&gt;
+
+&lt;p&gt;C・C++・CSS・Debian・Django・HTML・Git・iOS・JavaScript・MySQL・Node.js・Objective-C・Pandas・PHP・Python・Ruby・Ruby on Rails・Swift など.&lt;/p&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;CAMPHOR- HOUSE 内では, 電源と Wi-Fi (2.4GHz/5GHz) を利用できます.&lt;/p&gt;
+
+&lt;p&gt;会場の場所がわからない場合は &lt;a href="https://twitter.com/camphorkyoto"&gt;@CamphorKyoto&lt;/a&gt; へ連絡してください.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <event_url>http://atnd.org/events/70906</event_url>
+      <started_at type="datetime">2015-10-17 13:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-10-17 20:00:00 +0900</ended_at>
+      <url>https://camph.net/#house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">13</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-10-06 15:30:41 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">67823</event_id>
+      <title>WebRTC入門 ハンズオン勉強会 〜ブラウザで動く無料ビデオ通話アプリを作ろう！〜</title>
+      <catch/>
+      <description>&lt;h2&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;WebRTCを簡単に利用することが可能になるサービス「&lt;a href="http://nttcom.github.io/skyway/"&gt;SkyWay&lt;/a&gt;」を使って、ブラウザで動くビデオ通話アプリを作成します！
+当日はハンズオン形式の勉強会ということで、WebRTCやSkyWayについての講義を行った後，参加者自身が手を動かして実際に動くアプリを作成します。
+懇親会を含め、参加費は無料です。&lt;/p&gt;
+
+&lt;h2&gt;WebRTCとは&lt;/h2&gt;
+
+&lt;p&gt;映像・音声・データ通信のためのオープン標準規格です。例えば、SkypeやLINEのような通話機能や、対戦型ゲームなどに利用できます。モバイルアプリだけではなく、Webブラウザでも動きます。&lt;/p&gt;
+
+&lt;h2&gt;対象者&lt;/h2&gt;
+
+&lt;p&gt;WebRTCやアプリ作りに興味のある学生&lt;/p&gt;
+
+&lt;h2&gt;持ち物&lt;/h2&gt;
+
+&lt;p&gt;ノートパソコン&lt;/p&gt;
+
+&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;17:00 ~ 19:00 ハンズオン&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;勉強会終了後，懇親会を行います．
+NTTCom様のご厚意で、食事・お酒等を負担していただけることになっております。
+ぜひご参加ください。&lt;/p&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;本イベントは、京都IT系学生コミュニティ &lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt; と&lt;a href="http://www.ntt.com/"&gt;エヌ・ティ・ティ・コミュニケーションズ株式会社&lt;/a&gt;による合同勉強会です。&lt;/p&gt;
+
+&lt;p&gt;CAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用になれます。   &lt;/p&gt;
+
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br&gt;
+お困りの場合は &lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを飛ばして頂けると対応致します。&lt;/p&gt;
+
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://www.ntt.com/"&gt;エヌ・ティ・ティ・コミュニケーションズ株式会社&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://www.slideshare.net/rotsuya/5j-cup-20140423"&gt;WebRTCとは&lt;/a&gt;&lt;/p&gt;
+</description>
+      <event_url>http://atnd.org/events/67823</event_url>
+      <started_at type="datetime">2015-07-11 17:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-07-11 19:00:00 +0900</ended_at>
+      <url>http://camph.net/#house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPOHR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">18</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-07-02 22:57:28 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">67099</event_id>
+      <title>【学生限定】 ハードウェアに触れてみようハッカソン【CAMPHOR-】</title>
+      <catch/>
+      <description>&lt;h3&gt;増員しました&lt;/h3&gt;
+
+&lt;h2&gt;【学生限定】ハードウェアに触れてみようハッカソン&lt;/h2&gt;
+
+&lt;p&gt;Raspberry Piや、Arduino、3Dプリンターなどいつもソフトウェアを触っている人はなかなか使う機会がないハードウェアを自由に触ってハッカソンをするイベントです。&lt;/p&gt;
+
+&lt;p&gt;３〜５人のチームをその場で作っていただき、最後に発表していただきます。&lt;/p&gt;
+
+&lt;p&gt;懇親会を含め、参加費は無料です。&lt;/p&gt;
+
+&lt;h2&gt;どんなものを作る？&lt;/h2&gt;
+
+&lt;p&gt;こちらからは特に制限は設けません。ハードウェアを使ったものでしたら何でもかまいません。
+当日はハードウェアの触れる &lt;a href="https://camph.net/members/"&gt;CAMPHOR-メンバー&lt;/a&gt;が会場にいますので、質問等も可能です。&lt;/p&gt;
+
+&lt;p&gt;※ 開発時間が限られるため、アイデアはイベント当日考えるよりも事前に考えて頂けるとスムーズにご参加頂けます。   &lt;/p&gt;
+
+&lt;h2&gt;対象者&lt;/h2&gt;
+
+&lt;p&gt;いつもソフトウェア開発をしているけどハードに興味がある学生
+ハードは触っているけど3Dプリンターやその他のハードも触ってみたい学生&lt;/p&gt;
+
+&lt;h2&gt;会場&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://techlabpaak.com/"&gt;TECH LAB PAAK&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;東京都渋谷区神南1-20-9-6F（受付）/7F 
+渋谷駅から徒歩5分 &lt;/p&gt;
+
+&lt;h2&gt;持ち物&lt;/h2&gt;
+
+&lt;p&gt;ノートパソコン
+Windows または Mac OS X が入ったもの。  &lt;/p&gt;
+
+&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
+
+&lt;h3&gt;お弁当が出ます！！！(無料)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;09:30 - 10:00 受付&lt;/li&gt;
+&lt;li&gt;10:00 - 10:30 ハードウェアの説明&lt;/li&gt;
+&lt;li&gt;11:00 - 12:00 ハードウェア体験＆アイデア出し&lt;/li&gt;
+&lt;li&gt;12:00 - 18:30 作業&amp;amp;昼食&lt;/li&gt;
+&lt;li&gt;18:30 - 20:00 発表＆評価&lt;/li&gt;
+&lt;li&gt;20:00 -   懇親会&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;当日触れるデバイスリスト&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MOVERIO&lt;/li&gt;
+&lt;li&gt;Raspberry Pi2&lt;/li&gt;
+&lt;li&gt;Arduino&lt;/li&gt;
+&lt;li&gt;3Dプリンター&lt;/li&gt;
+&lt;li&gt;Moff&lt;/li&gt;
+&lt;li&gt;Oculus Rift DK2&lt;/li&gt;
+&lt;li&gt;LEAPMotion&lt;/li&gt;
+&lt;li&gt;THETA&lt;/li&gt;
+&lt;li&gt;PHILIPS Hue&lt;/li&gt;
+&lt;li&gt;Open Web Borad&lt;/li&gt;
+&lt;li&gt;LittleBit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;景品&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;優秀者には、株式会社リクルートホールディングスの社員さんとのお食事券が贈呈されます。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+
+&lt;h3&gt;このイベントは京都のITコミュニティーCAMPHOR- 主催のイベントです。&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ハードの持ち込みは可能です。&lt;/li&gt;
+&lt;li&gt;チームは1人チームでも可能です。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;メンター&lt;/h2&gt;
+
+&lt;p&gt;当日はメンターとして &lt;a href="https://camph.net/members/"&gt;CAMPHOR-メンバー&lt;/a&gt; が会場に居ます。解らない事があった際にはお気軽にご質問下さい。&lt;/p&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;本イベントは、京都IT系学生コミュニティ &lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt; 主催、&lt;a href="http://www.recruit.jp/"&gt;株式会社リクルートホールディングス&lt;/a&gt;後援により開催します。&lt;br&gt;
+TECH LAB PAAK 内では、電源と Wi-Fi をご利用になれます。   &lt;/p&gt;
+
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://www.recruit.jp/"&gt;株式会社リクルートホールディングス&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://techlabpaak.com/"&gt;TECH LAB PAAK&lt;/a&gt;&lt;/p&gt;
+</description>
+      <event_url>http://atnd.org/events/67099</event_url>
+      <started_at type="datetime">2015-06-27 10:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-06-27 21:30:00 +0900</ended_at>
+      <url>http://techlabpaak.com/</url>
+      <limit type="integer">35</limit>
+      <address>東京都渋谷区神南1-20-9-6F</address>
+      <place>TECH LAB PAAK</place>
+      <lat type="decimal">35.6619661</lat>
+      <lon type="decimal">139.699851</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">18</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-06-26 16:27:48 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">66988</event_id>
+      <title>【CAMPHOR-】 Swift勉強会 〜SwiftでGenericsを使った優しい世界を目指してみる〜 sponsored by LINE</title>
+      <catch/>
+      <description>&lt;h2&gt;内容&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;LINE&lt;/span&gt; Fukuoka株式会社 エンジニアのtarunon様にお越しいただき、Swiftに関する勉強会を行います。&lt;/p&gt;
+&lt;h2&gt;スピーカー&lt;/h2&gt;
+&lt;p&gt;tarunon（LINE Fukuoka株式会社）&lt;/p&gt;
+&lt;h2&gt;スピーカーより一言&lt;/h2&gt;
+&lt;p&gt;最近Swiftを使い始めて、型安全な世界の良さを再認識しました。&lt;/p&gt;
+&lt;p&gt;APIには型が厳密に定義されていないものが多くあります。そこで、今回はCoreDataを題材として、Genericsを駆使し、型安全に諸々の処理を書けるライブラリを開発してみました！&lt;/p&gt;
+&lt;p&gt;関数型プログラミングのエッセンスも取り入れて、Swiftらしい(?)ライブラリが開発できたと思うので、開発過程や成長を共有したいと思います。&lt;/p&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;興味のある学生の方ならどなたでも。お気軽にお越しください。&lt;/p&gt;
+&lt;h2&gt;当日のタイムスケジュール（予定）&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Swift勉強会（60分）&lt;/li&gt;
+	&lt;li&gt;質疑応答（10分）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;勉強会終了後、CAMPHOR- HOUSE内での懇親会（無料）を予定しています。&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;本勉強会は、京都IT系学生コミュニティ &lt;a href="http://camph.net" target="_blank"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt; と、&lt;a href="http://linecorp.com/ja/" target="_blank"&gt;LINE株式会社&lt;/a&gt;による合同勉強会です。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内では、電源と Wi-Fi をご利用になれます。&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、お困りの際には &lt;a href="https://twitter.com/CamphorKyoto" target="_blank"&gt;@CamphorKyoto&lt;/a&gt; にリプライを頂けると対応致します。&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/66988</event_url>
+      <started_at type="datetime">2015-06-20 18:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-06-20 19:00:00 +0900</ended_at>
+      <url>https://camph.net/house</url>
+      <limit type="integer">25</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">13</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-06-17 20:30:13 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">65779</event_id>
+      <title>第1回 プログラミング大相談会</title>
+      <catch/>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;「プログラミングを始めたばかりでよく分からないので誰かに質問したい」・「この言語についてもっと知りたいがどうやって勉強すれば良いのかわからない」・「こういったサービスを作りたいがどこから手をつけたらいいかわからない」・「エディタについて熱く語り合いたい」などプログラミングに関する様々なトピックについて CAMPHOR- のコアメンバーと自由に相談できるイベントです.&lt;/p&gt;
+
+&lt;p&gt;時間内の出入りは自由となっていますので, お気軽に参加してください.&lt;/p&gt;
+
+&lt;h2&gt;参加費&lt;/h2&gt;
+
+&lt;p&gt;無料&lt;/p&gt;
+
+&lt;h2&gt;スケジュール&lt;/h2&gt;
+
+&lt;p&gt;13:00 〜 20:00 の間, 会場を開けていますので, ご都合の良い時間にお越しください.&lt;/p&gt;
+
+&lt;h2&gt;メンバー&lt;/h2&gt;
+
+&lt;p&gt;今回参加する CAMPHOR- のメンバーは以下のようなことについてお話できます.&lt;/p&gt;
+
+&lt;p&gt;C・C++・CSS・Debian・Django・Flash・HTML・iOS・JavaScript・MySQL・Objective-C・Pandas・PHP・Python・Ruby・Ruby on Rails・Swift・Unity など.&lt;/p&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;CAMPHOR- HOUSE 内では, 電源と Wi-Fi (2.4GHz/5GHz) を利用できます.&lt;/p&gt;
+
+&lt;p&gt;会場の場所がわからない場合は &lt;a href="https://twitter.com/camphorkyoto"&gt;@CamphorKyoto&lt;/a&gt; へ連絡してください.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <event_url>http://atnd.org/events/65779</event_url>
+      <started_at type="datetime">2015-05-09 13:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-05-09 20:00:00 +0900</ended_at>
+      <url>https://camph.net/#house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">9</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-05-04 13:30:39 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">65030</event_id>
+      <title>Ruby で学ぶプログラミング入門</title>
+      <catch/>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;初学者の方を対象とした、プログラミングの基礎を学ぶための勉強会です。初心者向けの勉強会ですので、事前知識がまったくない方でもご参加いただけます。&lt;/p&gt;
+
+&lt;p&gt;オンラインプログラミング学習サービス &lt;a href="http://prog-8.com/"&gt;Progate&lt;/a&gt; と、プログラミング言語である &lt;a href="https://www.ruby-lang.org/ja/"&gt;Ruby&lt;/a&gt; を用いて、簡単な英単語クイズアプリケーションを作成し、プログラミングの基本的な考え方を身に付けることを目指します。&lt;/p&gt;
+
+&lt;p&gt;Progate は独習も可能な学習サービスですが、本勉強会では、CAMPHOR- のコアメンバーがメンターとして付き添い、適宜参加者のサポートをさせていただきます。&lt;/p&gt;
+
+&lt;h2&gt;対象者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;プログラミングの学習を始めようと考えている方&lt;/li&gt;
+&lt;li&gt;Ruby の学習に興味がある方&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;持ち物&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ノートパソコン&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;スピーカー&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://ryota-ka.me/"&gt;亀岡 亮太&lt;/a&gt; (京都大学経済学部4回)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;本勉強会は、京都IT系学生コミュニティ &lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt; による勉強会です。
+CAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用になれます。&lt;/p&gt;
+
+&lt;p&gt;また、終了後懇親会を予定しております。是非ご参加ください。&lt;/p&gt;
+
+&lt;p&gt;会場の場所が少々分かりにくいため、お困りの際には &lt;a href="http://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを頂けると対応致します。&lt;/p&gt;
+
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://prog-8.com/"&gt;Progate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ruby-lang.org/ja/"&gt;オブジェクト指向スクリプト言語 Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;アンケートフォーム&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://goo.gl/forms/f1WY5WW5Qa"&gt;http://goo.gl/forms/f1WY5WW5Qa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <event_url>http://atnd.org/events/65030</event_url>
+      <started_at type="datetime">2015-04-25 16:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-04-25 18:00:00 +0900</ended_at>
+      <url>https://camph.net/#house</url>
+      <limit type="integer">25</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">20</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-04-25 16:16:08 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">64386</event_id>
+      <title>Unityハンズオン勉強会</title>
+      <catch/>
+      <description>&lt;h2&gt;Unityでゲームを作る！&lt;/h2&gt;
+
+&lt;p&gt;Unity、もしくはゲーム作りに興味がある方に向けた勉強会です。&lt;br&gt;
+実際に手を動かしながらゲームをひとつ完成させて、Unityの魅力に存分に触れましょう！&lt;/p&gt;
+
+&lt;p&gt;懇親会を含め、参加費は無料です。&lt;/p&gt;
+
+&lt;h2&gt;どんなものを作る？&lt;/h2&gt;
+
+&lt;p&gt;こちらからは特に制限は設けません。Unityで作ったゲームであれば何でもOKです！
+3DアクションゲームやRPG、2Dのシューティングなど作ってみたいものを自由に作っていきましょう！&lt;br&gt;
+また Oculus Rift や Leap Motionといったガジェットをこちらの方でご用意する予定ですので、そちらの方も是非ご活用下さい！&lt;/p&gt;
+
+&lt;p&gt;※ 開発時間が限られるため、アイデアはイベント当日考えるよりも事前に考えて頂けるとスムーズにご参加頂けます。&lt;br&gt;
+以下のサイトを見ながら考えるとイメージがつきやすいかと思われます。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://dotinstall.com/lessons/basic_unity"&gt;Unity入門 (全26回) - プログラミングならドットインストール&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://japan.unity3d.com/developer/document/tutorial/"&gt;初心者向け公式チュートリアル&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://unity3d.com/learn/tutorials/modules"&gt;中級者向け公式チュートリアル&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;対象者&lt;/h2&gt;
+
+&lt;p&gt;Unity、もしくはゲーム作りに興味のある方。&lt;br&gt;
+プログラミング経験のない方や、Unityを触ったことがない初心者の方も大歓迎です！&lt;/p&gt;
+
+&lt;h2&gt;持ち物&lt;/h2&gt;
+
+&lt;p&gt;ノートパソコン&lt;br&gt;
+Windows または Mac OS X が入ったもの。  &lt;/p&gt;
+
+&lt;p&gt;Unityはダウンロード、インストールに時間がかかるので、あらかじめ最新版のUnity 5をインストールしておくようお願いします。&lt;br&gt;
+また、初回起動時にアカウントの登録が求められるのですが、そちらの方も済ませておくようよろしくお願いします。&lt;/p&gt;
+
+&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
+
+&lt;p&gt;・10:00-11:00 Unityやエディタの触り方等の説明&lt;br&gt;
+・11:00-17:00 開発&amp;amp;リリース (昼食は各自で)&lt;br&gt;
+・17:00-18:00 成果発表&lt;br&gt;
+・18:00-20:00 懇親会&lt;/p&gt;
+
+&lt;h2&gt;景品&lt;/h2&gt;
+
+&lt;p&gt;イベント終了時に優秀な製作物を決め、制作者には株式会社リクルートホールディングス様より以下の景品が贈呈されます！&lt;/p&gt;
+
+&lt;p&gt;・Leap Motion + お食事券&lt;br&gt;
+・ゲームパッド + お食事券&lt;/p&gt;
+
+&lt;p&gt;両方の景品に人事の方にご飯をご馳走して貰えるお食事券が付いてきます！&lt;/p&gt;
+
+&lt;h2&gt;メンター&lt;/h2&gt;
+
+&lt;p&gt;当日はメンターとして &lt;a href="https://camph.net/members/"&gt;CAMPHOR-メンバー&lt;/a&gt; が会場に居ます。解らない事があった際にはお気軽にご質問下さい。&lt;/p&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;本イベントは、京都IT系学生コミュニティ &lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt; 主催、&lt;a href="http://www.recruit.jp/"&gt;株式会社リクルートホールディングス&lt;/a&gt;後援により開催します。&lt;br&gt;
+CAMPHOR- HOUSE 内では、電源と Wi-Fi をご利用になれます。&lt;br&gt;
+会場の場所が少々分かりにくいため、&lt;br&gt;
+お困りの場合は &lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを飛ばして頂けると対応致します。&lt;/p&gt;
+
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://www.recruit.jp/"&gt;株式会社リクルートホールディングス&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://dotinstall.com/lessons/basic_unity"&gt;Unity入門 (全26回) - プログラミングならドットインストール&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://japan.unity3d.com/developer/document/tutorial/"&gt;初心者向け公式チュートリアル&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://unity3d.com/learn/tutorials/modules"&gt;中級者向け公式チュートリアル&lt;/a&gt;&lt;/p&gt;
+</description>
+      <event_url>http://atnd.org/events/64386</event_url>
+      <started_at type="datetime">2015-04-18 10:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-04-18 20:00:00 +0900</ended_at>
+      <url>http://camph.net/#house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPOHR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">19</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-04-12 00:53:53 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">64077</event_id>
+      <title>CAMPHOR- x KMC 合同LT会</title>
+      <catch/>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;京大周辺で活動している京大マイコンクラブ (KMC) と CAMPHOR- の親睦を深めるため, 合同LT会を開催します. CAMPHOR- や KMC 以外の方の参加も歓迎します.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LT 発表したい方は参加登録の際にその旨を明記してください&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;参加費&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;株式会社サイバーエージェント様&lt;/strong&gt; がフードスポンサーとして, 飲み物とピザを提供してくださいます!!&lt;/p&gt;
+
+&lt;h2&gt;スケジュール&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;16:00-16:20 オープニング&lt;/li&gt;
+&lt;li&gt;16:20-18:00 LT&lt;/li&gt;
+&lt;li&gt;18:00-19:00 懇親会 (食事)&lt;/li&gt;
+&lt;li&gt;19:00-20:00 LT&lt;/li&gt;
+&lt;li&gt;20:00- エンディング・随時解散&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;LT 発表者の方へ&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;発表時間は1人5分 (厳守) です&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;プロジェクターを利用できます (VGA または Thunderbolt (Mini Display Port))&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;基本的には1人1枠ですが, 時間に余裕がある場合は飛び入りでも OK です&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;イベント終了後スライドを Slideshare 等で公開していただけるとありがたいです&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;スライド&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/pastak/ss-46212063"&gt;pasta-k 「とにかくシュッと検索っぽいことをしたい！」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/KMC_JP/bfmeta"&gt;prime 「BFmeta」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/morishin/minnafalsereactivex"&gt;morishin 「みんなのReactiveX」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/yusukemiy/20150324-camphor-ltios"&gt;ymyzk 「iOS 開発のいま」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;その他&lt;/h2&gt;
+
+&lt;p&gt;CAMPHOR- HOUSE 内では, 電源と Wi-Fi (2.4GHz/5GHz) を利用できます.&lt;/p&gt;
+
+&lt;p&gt;会場の場所がわからない場合は &lt;a href="https://twitter.com/camphorkyoto"&gt;@CamphorKyoto&lt;/a&gt; へ連絡してください.&lt;/p&gt;
+
+&lt;p&gt;参加団体&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://camph.net/"&gt;CAMPHOR-&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kmc.gr.jp/"&gt;京大マイコンクラブ (KMC)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;フードスポンサー&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.cyberagent.co.jp/"&gt;株式会社サイバーエージェント様&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <event_url>http://atnd.org/events/64077</event_url>
+      <started_at type="datetime">2015-03-24 16:00:00 +0900</started_at>
+      <ended_at type="datetime"/>
+      <url>https://camph.net/#house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">18</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2016-04-28 15:03:29 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">62932</event_id>
+      <title>【CAMPHOR- x サイバーエージェント】アドテク入門講座</title>
+      <catch>サイバーエージェントのエンジニアにアドテクを教えてもらおう！</catch>
+      <description>&lt;h2&gt;講座内容&lt;/h2&gt;
+&lt;h3&gt;■ビジネスモデルについて&lt;/h3&gt;
+&lt;p&gt;・そもそもアドテクとは？&lt;br /&gt;
+・アドテクを構成するいろんなPlatform&lt;br /&gt;
+・アドテクにおけるビックデータ&lt;/p&gt;
+&lt;h3&gt;■開発について&lt;/h3&gt;
+&lt;p&gt;・開発体制&lt;br /&gt;
+・アドテクのエンジニアがやっている事&lt;br /&gt;
+・ビックデータ処理&lt;br /&gt;
+・機械学習や統計学の活用&lt;/p&gt;
+&lt;h2&gt;スピーカー&lt;/h2&gt;
+&lt;p&gt;馬場惇（株式会社サイバーエージェント　AdTech Studio エンジニア）&lt;/p&gt;
+&lt;h2&gt;スピーカーより一言&lt;/h2&gt;
+&lt;p&gt;今非常にアツいアドテクノロジーについて、新卒1年目で1年間アドテクに従事してきた目線からご紹介します。アドテクは、サーバーサイドの高速並列処理やインフラ技術、機械学習や統計学などの学術技術がふんだんに盛り込まれて、常に最新の技術が用いられる領域です。アドテクを知らない人も広告ウザいと思ってる人も大歓迎なので、まずはお気軽に聞いていってください。&lt;/p&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;アドテクノロジーに興味のある学生&lt;/p&gt;
+&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
+&lt;p&gt;・サイバーエージェントの紹介 (10分)&lt;br /&gt;
+・アドテクについて（60分）&lt;br /&gt;
+・質疑応答（20分）&lt;/p&gt;
+&lt;p&gt;勉強会終了後、懇親会(無料)を予定しています。&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;本勉強会は、京都IT系学生コミュニティ &lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt; と、&lt;a href="https://www.cyberagent.co.jp/"&gt;株式会社サイバーエージェント&lt;/a&gt;による合同勉強会です。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内では、電源と Wi-Fi をご利用になれます。&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は &lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを飛ばして頂けると対応致します。&lt;/p&gt;
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.cyberagent.co.jp/"&gt;株式会社サイバーエージェント&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;アドテクに関する参考リンク&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.cyberagent.co.jp/ir/personal/adtech/"&gt;日本一やさしいアドテク教室&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://adtech.cyberagent.io/"&gt;CyberAgent AdTech Studio&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://gihyo.jp/dev/serial/01/cyberagent/0063"&gt;アドテクスタジオのエンジニアに聞くScalaの魅力&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.slideshare.net/prir/ss-35918532"&gt;日本におけるアドテク市場とサイバーエージェントのアドテク事業について&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/62932</event_url>
+      <started_at type="datetime">2015-03-17 17:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-03-17 18:30:00 +0900</ended_at>
+      <url>http://camph.net/#house</url>
+      <limit type="integer">25</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">25</accepted>
+      <waiting type="integer">3</waiting>
+      <updated_at type="datetime">2015-03-09 10:26:36 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">63070</event_id>
+      <title>【CAMPHOR- リクルート】1 day Hackathon </title>
+      <catch>Web サービスを１日で作りきってみませんか?</catch>
+      <description>&lt;h2&gt;作りきる！&lt;/h2&gt;
+&lt;p&gt;今回のイベントでは、「アイデア→コーディング(開発)→リリース (公開)する」という一連の流れを体験できます！&lt;/p&gt;
+&lt;p&gt;懇親会を含め、参加費は無料です。&lt;/p&gt;
+&lt;h2&gt;何をつくる？&lt;/h2&gt;
+&lt;p&gt;当日に作るものはWebに関係するものですが、細かいアイデアは参加者の自由です。&lt;br /&gt;
+普段考えているアイデアを一緒に形にしましょう。&lt;/p&gt;
+&lt;p&gt;※ 開発時間が限られるため、アイデアはイベント当日考えるよりも事前に考えて頂けるとスムーズにご参加頂けます。&lt;/p&gt;
+&lt;h3&gt;例&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;HTMLとCSSで自己紹介ページを作る。&lt;/li&gt;
+	&lt;li&gt;JavaScriptでテトリスを作る。&lt;/li&gt;
+	&lt;li&gt;Ruby on Railsでブログを作る。&lt;/li&gt;
+	&lt;li&gt;Pythonで検索エンジンを作る。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;何かを作って公開したい学生。&lt;br /&gt;
+&lt;strong&gt;最低でもHTMLを少し書いたことがある人を想定しています。&lt;br /&gt;
+HTMLに自信の無い方は以下の動画を事前に観て頂けると安心して参加頂けます。&lt;/strong&gt;&lt;br /&gt;
+ &lt;a href="http://dotinstall.com/lessons/basic_html_v2"&gt;HTML入門 (全16回) &amp;#8211; プログラミングならドットインストール&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;p&gt;ノートパソコン&lt;br /&gt;
+Windows でも Mac OS X でも Linux でも構いません！&lt;/p&gt;
+&lt;h2&gt;メンター&lt;/h2&gt;
+&lt;p&gt;当日はメンターとして &lt;a href="https://camph.net/members/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-メンバー&lt;/a&gt; が会場に居ます。解らない事があった際にはお気軽にご質問下さい。&lt;/p&gt;
+&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;10:00-10:30 オープニング&lt;/li&gt;
+	&lt;li&gt;10:30-17:00 開発&amp;amp;リリース (昼食は各自で)&lt;/li&gt;
+	&lt;li&gt;17:00-18:00 成果発表&lt;/li&gt;
+	&lt;li&gt;18:00-20:00 懇親会&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;懇親会のフードスポンサーは株式会社リクルートホールディングス様です！&lt;/p&gt;
+&lt;h2&gt;景品&lt;/h2&gt;
+&lt;p&gt;イベント終了時に優秀な製作物を決め、制作者には株式会社リクルートホールディングス様より以下の景品が贈呈されます。&lt;/p&gt;
+&lt;p&gt;・レッドブル1ケース(24本)&lt;br /&gt;
+・人事とのお食事券(人事にご飯をご馳走してもらえます！)&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;本イベントは、京都IT系学生コミュニティ &lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt; 主催、&lt;a href="http://www.recruit.jp/"&gt;株式会社リクルートホールディングス&lt;/a&gt;後援により開催します。&lt;br /&gt;
+&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内では、電源と Wi-Fi をご利用になれます。&lt;br /&gt;
+会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は &lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを飛ばして頂けると対応致します。&lt;/p&gt;
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.recruit.jp/"&gt;株式会社リクルートホールディングス&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/63070</event_url>
+      <started_at type="datetime">2015-03-08 10:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-03-08 20:00:00 +0900</ended_at>
+      <url>http://camph.net/#house</url>
+      <limit type="integer">25</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPOHR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">22</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-03-08 11:10:16 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">62336</event_id>
+      <title>【CAMPHOR-×カカクコム】食べログ流 スマホアプリの作り方</title>
+      <catch></catch>
+      <description>&lt;h1&gt;【CAMPHOR-×カカクコム】食べログ流 スマホアプリの作り方&lt;/h1&gt;
+&lt;h2&gt;内容&lt;/h2&gt;
+&lt;p&gt;これまでの食べログの歩みと共に、現在のWebシステムの裏側やデータ処理の方法、また、どのような流れでスマートフォンアプリの開発が行われているのかを学生の皆様にお話しします。&lt;/p&gt;
+&lt;h2&gt;スピーカー&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;土肥 寛基（株式会社カカクコム 食べログ本部 サービス開発部 部長）&lt;/li&gt;
+	&lt;li&gt;磯貝 佳典（株式会社カカクコム 食べログ本部 サービス開発部 Android アプリ開発エンジニア）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;対象者&lt;/h2&gt;
+&lt;p&gt;エンジニアを目指している学生&lt;/p&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;p&gt;なし&lt;/p&gt;
+&lt;h2&gt;食べログのエンジニアとして働く魅力&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;月間6,000万人（スマートフォン/フィーチャーフォン含む）以上が利用する大規模サイトのシステム開発・運用のため、仕事のインパクトが大きい&lt;/li&gt;
+	&lt;li&gt;日々増大するトラフィックを捌くために必要な負荷分散技術や効率性など、大規模サイトならではの技術が身に付く&lt;/li&gt;
+	&lt;li&gt;ユーザーから生の声を聞くことができる。また、自分自身が便利と思えるサービスを作り上げる楽しみがあり、世の中からの反響も大きい&lt;/li&gt;
+	&lt;li&gt;美味しいお店によく行くことができる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;食べログの歩み、アプリについてのお話（1時間）&lt;/li&gt;
+	&lt;li&gt;質疑応答（30分）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;勉強会終了後懇親会を予定しています。&lt;br /&gt;
+カカクコム様のご厚意で、食事・お酒等を負担していただけることになっております。&lt;br /&gt;
+是非ご参加ください。&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;本勉強会は、京都IT系学生コミュニティ &lt;a href="http://camph.net" target="_blank"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt; と、&lt;a href="http://corporate.kakaku.com/" target="_blank"&gt;株式会社カカクコム様&lt;/a&gt;による合同勉強会です。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内では、電源と Wi-Fi をご利用になれます。&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、お困りの際には &lt;a href="https://twitter.com/CamphorKyoto" target="_blank"&gt;@CamphorKyoto&lt;/a&gt; にリプライを頂けると対応致します。&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/62336</event_url>
+      <started_at type="datetime">2015-02-26 17:30:00 +0900</started_at>
+      <ended_at type="datetime">2015-02-26 18:30:00 +0900</ended_at>
+      <url>https://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">15</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-02-17 23:26:57 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">61294</event_id>
+      <title>コマンドライン環境について語る会</title>
+      <catch></catch>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;座談会形式のイベントです. 参加者それぞれのコマンドライン環境 (端末エミュレータ, dotfiles, フォントなど) について語り合いましょう.&lt;br /&gt;
+コマンドライン環境をあまり使ったことのない人も大歓迎です. おすすめ設定を経験者からもらえるかもしれません.&lt;/p&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;p&gt;ノートパソコン (推奨)&lt;br /&gt;
+OS X ユーザーが多いと思いますが, Linux, Unix ユーザーも問題いないです.&lt;br /&gt;
+Windows の人は頑張ってください!&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;本勉強会は、京都のIT系学生コミュニティ &lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt; による勉強会です.&lt;br /&gt;
+どなたでもお気軽にご参加いただけます.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内では, 電源と Wi-Fi をご利用になれます.&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため, お困りの場合は &lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを飛ばして頂けると対応致します.&lt;/p&gt;
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/61294</event_url>
+      <started_at type="datetime">2015-01-17 16:00:00 +0900</started_at>
+      <ended_at type="datetime">2015-01-17 19:00:00 +0900</ended_at>
+      <url>https://camph.net/#house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">7</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-01-12 16:10:18 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">61055</event_id>
+      <title>CAMPHOR- x KMC 交流会</title>
+      <catch></catch>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;京大周辺で活動している 京大マイコンクラブ (&lt;span class="caps"&gt;KMC&lt;/span&gt;) と &lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- の親睦を深めるための交流会を開催します. お菓子をつまみながらワイワイ楽しくやりましょう.&lt;/p&gt;
+&lt;h2&gt;参加費&lt;/h2&gt;
+&lt;p&gt;未定です. お菓子代 (数百円程度) を徴収するかもしれません.&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内では、電源と Wi-Fi を利用できます.&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は &lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを飛ばして頂けると対応致します。&lt;/p&gt;
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.kmc.gr.jp"&gt;京大マイコンクラブ (&lt;span class="caps"&gt;KMC&lt;/span&gt;)&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/61055</event_url>
+      <started_at type="datetime">2015-01-10 15:00:00 +0900</started_at>
+      <ended_at type="datetime"/>
+      <url>https://camph.net/#house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">9</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-01-12 15:48:09 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">60391</event_id>
+      <title>CAMPHOR- 土曜講座【Emacs入門】</title>
+      <catch></catch>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;Vimと並んで代表的なエディタであるEmacsについての入門講座をやります。&lt;br /&gt;
+主にEmacsを触ったことがない、あるいは普段使っていない人を対象に、最新のEmacsの雰囲気と自分で勉強しながら使っていくための基本的なことを解説します。&lt;/p&gt;
+&lt;p&gt;特に文書作成やプログラミングにおいて、普段解説者がどう使ってるかをベースに説明していく予定です。&lt;/p&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;p&gt;Emacs24.4の入ったノートパソコン。&lt;br /&gt;
+解説の際には環境にMac OSXを想定しますが、Linux・Windowsなどでも問題ありません。&lt;br /&gt;
+OSXの方はCocoa版を、Linuxの方はNTEmacsを導入することをおすすめします。&lt;/p&gt;
+&lt;h2&gt;詳細&lt;/h2&gt;
+&lt;p&gt;目の前で僕の操作を見て頂き、それをさらに参加者の方が実際にやってもらうことで、具体的なEmacsでの作業の雰囲気を感じてもらう形式でやります。&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Emacsの基本的な操作 (10分)&lt;br /&gt;
+カーソル移動・ファイルを開く、保存等といった基本的な操作と概念を見ていきます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;拡張入門 (30分)&lt;br /&gt;
+Emacsにおける拡張について、現在定番となっているものを取り上げてながら、自分好みのEmacsを作るための基本的な内容を見ていきます。&lt;br /&gt;
+Emacs Lispによる拡張に触れてもらうことで、Emacsにおけるプログラミングがどのようなものかを感じてもらう予定です。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;Org mode (20分)&lt;br /&gt;
+文書作成を行うための多機能な拡張であるOrg modeについて簡単に説明します。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;本勉強会は、京都IT系学生コミュニティ &lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt; による勉強会です。&lt;br /&gt;
+どなたでもお気軽にご参加いただけます。&lt;/p&gt;
+&lt;p&gt;勉強会終了後、懇親会を予定しています。是非ご参加ください。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内では、電源と Wi-Fi をご利用になれます。&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は &lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを飛ばして頂けると対応致します。&lt;/p&gt;
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/60391</event_url>
+      <started_at type="datetime">2014-12-20 17:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-12-20 18:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">8</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-12-18 15:14:47 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">59820</event_id>
+      <title>【CAMPHOR- × サイボウズ】Selenium 勉強会</title>
+      <catch></catch>
+      <description>&lt;h2&gt;&lt;a href="http://www.seleniumhq.org/"&gt;Selenium&lt;/a&gt;について&lt;/h2&gt;
+&lt;p&gt;Webアプリケーションの自動テストを実施するにあたって、より厳密なEnd-to-Endテストを実施するためにはブラウザの操作を自動化できることが不可欠です。&lt;br /&gt;
+Seleniumはブラウザの操作を簡単に自動化できる、世界中で利用されているツールです。&lt;/p&gt;
+&lt;h2&gt;内容&lt;/h2&gt;
+&lt;p&gt;まずはSeleniumとは何ぞや、というところを簡単にご紹介します。&lt;br /&gt;
+その後、ハンズオン形式でSeleniumを使ってブラウザの操作を自動化する簡単なプログラムを作成します。&lt;/p&gt;
+&lt;h2&gt;スピーカー&lt;/h2&gt;
+&lt;p&gt;岡田勇樹（サイボウズ株式会社大阪開発部 Webアプリケーションエンジニア）&lt;br /&gt;
+&lt;a href="https://twitter.com/y_okady"&gt;@y_okady&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;持ち物&lt;/h2&gt;
+&lt;p&gt;Java, Python, Ruby, C# のいずれかの言語のコーディングができるノートパソコン&lt;/p&gt;
+&lt;h2&gt;サイボウズについて&lt;/h2&gt;
+&lt;p&gt;サイボウズでは、大規模Webアプリケーション開発の一環として、自動テストを積極的に取り入れています。&lt;br /&gt;
+エンジニアブログ「Cybozu Inside Out」では、自動テストなど様々な技術情報を発信しています。&lt;br /&gt;
+&lt;a href="http://developer.cybozu.co.jp/tech/"&gt;http://developer.cybozu.co.jp/tech/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;当日のスケジュール&lt;/h2&gt;
+&lt;p&gt;- Seleniumの紹介 (10分)&lt;br /&gt;
+- ハンズオン (40分)&lt;br /&gt;
+- まとめ (10分)&lt;/p&gt;
+&lt;p&gt;勉強会終了後、懇親会を予定しています。&lt;br /&gt;
+サイボウズ様のご厚意で、食事・お酒等を負担していただけることになっております。&lt;br /&gt;
+是非ご参加ください。&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;本勉強会は、京都IT系学生コミュニティ &lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt; と、&lt;a href="http://cybozu.co.jp/"&gt;株式会社サイボウズ様&lt;/a&gt;による合同勉強会です。&lt;br /&gt;
+どなたでもお気軽にご参加いただけます。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内では、電源と Wi-Fi をご利用になれます。&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は &lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt; にリプライを飛ばして頂けると対応致します。&lt;/p&gt;
+&lt;h2&gt;関連リンク&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://cybozu.co.jp/"&gt;株式会社サイボウズ&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://developer.cybozu.co.jp/tech/"&gt;Cybozu Inside Out | サイボウズエンジニアのブログ&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://camph.net/"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/59820</event_url>
+      <started_at type="datetime">2014-12-14 17:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-12-14 18:00:00 +0900</ended_at>
+      <url>https://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都市左京区吉田牛ノ宮町16</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">16</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-12-07 18:18:51 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">57360</event_id>
+      <title>クックパッド開発コンテスト24 @CAMPHOR- HOUSE</title>
+      <catch></catch>
+      <description>&lt;p&gt;クックパッドが開催している開発コンテスト24に、CAMPHOR-でわいわい参加しましょう！&lt;br /&gt;
+10/18 (土) 午前9時にテーマが発表されて、24時間で開発するコンテストです。&lt;br /&gt;
+個人でもチームでも良さそうです。&lt;br /&gt;
+賞品賞金獲りましょう！&lt;/p&gt;
+&lt;p&gt;どなたでもご参加ください〜&lt;br /&gt;
+&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- を知らない人でもOKです〜&lt;/p&gt;
+&lt;p&gt;コンテストページはこちら: https://info.cookpad.com/24contest_5&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/57360</event_url>
+      <started_at type="datetime">2014-10-18 09:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-10-19 09:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">9</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-10-06 18:54:50 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">56810</event_id>
+      <title>CAMPHOR- 土曜講座【コンピューターネットワーク入門】</title>
+      <catch></catch>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;「jQuery で非同期通信をする」「Twitter の &lt;span class="caps"&gt;API&lt;/span&gt; を利用する」などコンピューターネットワークを簡単にまた頻繁に利用することが増えてきました。&lt;br /&gt;
+しかし、コンピューターネットワークについての知識が乏しく、エラーが発生した場合の対処に困ったり、パフォーマンスに問題が発生している場合を見かけます。&lt;/p&gt;
+&lt;p&gt;コンピューターネットワークについての基本的な知識は多くのプログラマーやデザイナーにとって必須となりつつあります。&lt;br /&gt;
+この短時間で話せる内容は限られますが、少しでもみなさんのネットワークへの理解を高められれば幸いです。&lt;/p&gt;
+&lt;p&gt;どなたでもご自由にご参加お待ちしております!&lt;/p&gt;
+&lt;h2&gt;詳細&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;コンピューターネットワークとは&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;TCP&lt;/span&gt;/IP&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Application Layer (&lt;span class="caps"&gt;HTTP&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;Transport Layer (&lt;span class="caps"&gt;TCP&lt;/span&gt; / &lt;span class="caps"&gt;UDP&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;Internet Layer (IP)&lt;/li&gt;
+&lt;li&gt;Link Layer (&lt;span class="caps"&gt;MAC&lt;/span&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;デモ&lt;/li&gt;
+&lt;li&gt;質問&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、お困りの場合は @CamphorKyoto (Twitter) にリプを飛ばしていただければご案内します。&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;「CAMPHOR-とは？」&lt;br /&gt;
+&lt;a href="http://camph.net/about/"&gt;http://camph.net/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;講座担当者について&lt;br /&gt;
+&lt;a href="http://www.ymyzk.com/"&gt;http://www.ymyzk.com/&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/56810</event_url>
+      <started_at type="datetime">2014-10-11 18:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-10-11 19:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">13</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-10-04 12:40:28 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">54442</event_id>
+      <title>JavaScriptフレームワークの歩き方</title>
+      <catch></catch>
+      <description>&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;Angular.jsやBackbone.jsを始めとした&lt;br /&gt;
+『MV* フレームワーク』とカテゴライズされるJavaScriptのフレームワークは今、まさに百花絢爛。&lt;/p&gt;
+&lt;p&gt;本セッションでは、&lt;br /&gt;
+そんなJavaScriptフレームワークの歩き方について、&lt;br /&gt;
+ 『もう迷わない』ではなく、正しい『迷い方』について紹介します。&lt;/p&gt;
+&lt;h2&gt;スピーカー紹介&lt;/h2&gt;
+&lt;p&gt;斉藤祐也（株式会社リッチメディア　エンジニア）&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://html5experts.jp/cssradar/"&gt;http://html5experts.jp/cssradar/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;本勉強会は、&lt;br /&gt;
+京都IT系学生コミュニティCAMPHOR-(&lt;a href="http://camph.net"&gt;camph.net&lt;/a&gt;)&lt;br /&gt;
+と&lt;br /&gt;
+株式会社リッチメディア(&lt;a href="http://www.rich.co.jp/"&gt;www.rich.co.jp/&lt;/a&gt;)&lt;br /&gt;
+による合同勉強会です。&lt;/p&gt;
+&lt;p&gt;東京で数々のWebの勉強会を行っているリッチメディア様の&lt;br /&gt;
+ノウハウが聞ける勉強会をCAMPHOR-HOUSEで開催することとなりました！&lt;/p&gt;
+&lt;p&gt;こちらがリッチメディア様のTechBlogとなっております！&lt;br /&gt;
+&lt;a href="http://www.rich.co.jp/tech/"&gt;www.rich.co.jp/tech&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;株式会社リッチメディアの提供サービスの参考記事はこちらになります。&lt;br /&gt;
+&lt;a href="http://jp.techcrunch.com/2014/05/15/jp20140515hair"&gt;http://jp.techcrunch.com/2014/05/15/jp20140515hair/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.nikkei.com/article/DGXNZO71023880Q4A510C1TJE000/"&gt;http://www.nikkei.com/article/DGXNZO71023880Q4A510C1TJE000/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;お気軽にご参加ください！&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内は電源と Wi-Fi を利用出来ます。&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は@CamphorKyotoにリプを飛ばして頂けると対応します。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-とは?: &lt;a href="http://camph.net"&gt;http://camph.net&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;勉強会アンケートはこちらです&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/1OOEKO372lbSIwYEvKGiLZzZuggzNS5kqLPjvb4NqSzs/viewform"&gt;https://docs.google.com/forms/d/1OOEKO372lbSIwYEvKGiLZzZuggzNS5kqLPjvb4NqSzs/viewform&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/54442</event_url>
+      <started_at type="datetime">2014-09-28 17:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-09-28 18:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">25</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">18</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-09-28 17:48:55 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">52473</event_id>
+      <title>CAMPHOR-土曜講座【WWDC14 レポート + α】</title>
+      <catch></catch>
+      <description>&lt;p&gt;WWDC14 参加者による WWDC14 のレポートを行います.&lt;br /&gt;
+時間があれば Swift 等についてもお話しする予定です.&lt;/p&gt;
+&lt;p&gt;特に必要な知識等はありません.&lt;br /&gt;
+どなたでもご自由にご参加お待ちしております!&lt;/p&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;span class="caps"&gt;HOUSE&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は @CamphorKyoto (Twitter) にリプを飛ばして頂くとありがたいです。&lt;/p&gt;
+&lt;h2&gt;その他&lt;/h2&gt;
+&lt;p&gt;「CAMPHOR-とは？」&lt;br /&gt;
+&lt;a href="http://camph.net/about/"&gt;http://camph.net/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;講座担当者について&lt;br /&gt;
+&lt;a href="http://www.ymyzk.com/"&gt;http://www.ymyzk.com/&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/52473</event_url>
+      <started_at type="datetime">2014-06-28 19:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-06-28 20:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR- HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">14</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-06-16 11:37:43 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">52080</event_id>
+      <title>&lt;htmlday&gt;◯◯.jsを語る会@CAMPHOR-HOUSE</title>
+      <catch>みんな大好きjavascript!!</catch>
+      <description>&lt;h1&gt;◯◯.jsを語る会&lt;/h1&gt;
+&lt;h2&gt;＜htmlday＞&lt;/h2&gt;
+&lt;p&gt;今回のイベントは座談会形式です。&lt;br /&gt;
+&lt;a href="http://www.htmlday.jp/"&gt;htmlday&lt;/a&gt;の開催に合わせて開催します！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;こんな事できるjsライブラリー見つけた！&lt;/li&gt;
+&lt;li&gt;おしゃれなものが簡単につくれるjsライブラリーをみんなに教えたい。&lt;/li&gt;
+&lt;li&gt;こんなjsライブラリーがあればいいのにな&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;のような事をみんなで話し合って、情報共有ができればなと思ってます。&lt;/p&gt;
+&lt;h2&gt;会場&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;span class="caps"&gt;HOUSE&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は@CamphorKyoto(Twitter)にリプを飛ばして頂くとありがたいです。&lt;/p&gt;
+&lt;p&gt;座談会形式ですがjsに関係していれば突然のLTも歓迎です。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-とは?: &lt;a href="http://camph.net/"&gt;http://camph.net/&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/52080</event_url>
+      <started_at type="datetime">2014-06-14 19:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-06-14 20:30:00 +0900</ended_at>
+      <url>https://camph.net/house/</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>Camphor-HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">9</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-06-05 16:26:38 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">51535</event_id>
+      <title>Git勉強会 &lt;初心者・経験者向けの２部構成&gt;</title>
+      <catch>これからの夏を、gitですまーとに乗り切ろう！</catch>
+      <description>&lt;h4&gt;Git勉強会&lt;/h4&gt;
+&lt;p&gt;今回の勉強会は２部構成で開きます&lt;br /&gt;
+第１部[13:00~14:30]&lt;br /&gt;
+◎初心者のためのGit講座&lt;br /&gt;
+・Gitとはなんぞや&lt;br /&gt;
+・どんな使い方が出来んねや&lt;br /&gt;
+・ほんでどう使うん&lt;br /&gt;
+を説明した後に、実際にハンズオン形式で&lt;br /&gt;
+皆さんに試してもらう時間を取ります&lt;/p&gt;
+&lt;p&gt;※今回はCUIコマンドでの操作になります。ご注意ください。&lt;/p&gt;
+&lt;p&gt;第2部[14:30~]（終了時刻は適当に）&lt;br /&gt;
+◎Git座談会&lt;br /&gt;
+「実際に使われているGitを用いたワークフローにはどのような物があるのか」&lt;br /&gt;
+をテーマに、ディスカッションをやります&lt;br /&gt;
+ディスカッションについては、話せる人を中でも用意していますが、&lt;br /&gt;
+参加者の皆さんにも、各自の考え等お話し頂ければと思います&lt;/p&gt;
+&lt;p&gt;※経験者の方は第2部からいらっしゃいませ&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;事前準備&lt;/h4&gt;
+&lt;p&gt;ノートパソコンをお持ちの方は、事前にGit環境を整えてこられることをお勧めします。&lt;br /&gt;
+OSはLinux, Unix, Mac, Windows等どれでも構いません。&lt;br /&gt;
+なお、講座ではgit 1.9.3を使用予定です。&lt;/p&gt;
+&lt;p&gt;参考サイト&lt;br /&gt;
+&lt;a href="http://www.e2esound.com/wp/2013/07/03/git-kai_how_to_install_git_with_homebrew/"&gt;Mac &lt;span class="caps"&gt;OSX&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.02.246.ne.jp/~torutk/git/gitonwindows.html"&gt;Windows&lt;/a&gt; (導入は前半のmsysgitのみで大丈夫です）&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;会場&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://camph.net/house"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;span class="caps"&gt;HOUSE&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+電源とWi-Fiが利用出来ます。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://camph.net"&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-とは？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は@CamphorKyoto(Twitter)にリプを飛ばして頂けたらと思います。&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/51535</event_url>
+      <started_at type="datetime">2014-05-31 13:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-05-31 15:00:00 +0900</ended_at>
+      <url>https://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">12</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-05-26 18:17:17 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">51351</event_id>
+      <title>AWS勉強会！入門編！ @CAMPHOR-HOUSE</title>
+      <catch>EC2を使ってWebサーバー構築してみよう！</catch>
+      <description>&lt;h3&gt;AWS勉強会とは？&lt;/h3&gt;
+&lt;p&gt;主にEC2の使い方をレクチャーしたいと思います。&lt;/p&gt;
+&lt;p&gt;Webサービス作る際に、「AWSのEC2使うのって実際どうなの？」って人とか、&lt;br /&gt;
+「そもそもクラウドサービス使ったことない！」っていう人とか&lt;br /&gt;
+その辺の人達は気軽にご参加ください！&lt;/p&gt;
+&lt;p&gt;当日の流れとしては、申し込みから運用までのフェーズをスクリーン上で再現します。&lt;br /&gt;
+見るだけでもよし、一緒に手を動かしてやるのもよし。&lt;/p&gt;
+&lt;h3&gt;会場&lt;/h3&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-&lt;acronym title="http://camph.net/house"&gt;&lt;span class="caps"&gt;HOUSE&lt;/span&gt;&lt;/acronym&gt;&lt;/p&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、&lt;br /&gt;
+お困りの場合は@CamphorKyoto(Twitter)にリプを飛ばして頂くとありがたいです。&lt;/p&gt;
+&lt;h3&gt;講座内容&lt;/h3&gt;
+&lt;p&gt;・インスタンスを立ち上げるとは？&lt;br /&gt;
+・新規インスタンスでWebサーバ構築してみよう！&lt;br /&gt;
+・AMIの作り方&lt;br /&gt;
+・ロードバランサで負荷分散&lt;/p&gt;
+&lt;p&gt;その他随時追加。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-とは?: camph.net&lt;br /&gt;
+講座担当者について: http://kohey18.github.io/about/&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/51351</event_url>
+      <started_at type="datetime">2014-05-24 19:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-05-24 20:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">17</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-05-22 14:25:40 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">49435</event_id>
+      <title>【春のCAMPHOR- 祭り】Python プログラミング入門</title>
+      <catch></catch>
+      <description>&lt;p&gt;プログラミング言語 Python を使って, プログラミング入門講座を行います.&lt;br /&gt;
+主な対象は&lt;strong&gt;プログラミングを始めてみたい方&lt;/strong&gt;と, Pythonを始めてみたい方です.&lt;/p&gt;
+&lt;p&gt;この講座だけでプログラミングが出来るようになる訳ではないですが,&lt;br /&gt;
+これからどのように学んでいけば良いかも含めてお話しする予定です.&lt;/p&gt;
+&lt;p&gt;皆さんの参加をお待ちしています!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;ノートPC をお持ちの方は事前に Python をインストールして持参されることをお勧めします.&lt;br /&gt;
+OS は Linux, Unix, Mac, Windows 等どれでも構いません.&lt;br /&gt;
+既にインストールされていることがありますのでご注意ください.&lt;br /&gt;
+なお, 講座では Python 2.7.6 を使用予定です.&lt;/p&gt;
+&lt;p&gt;ダウンロードはこちらから: http://www.python.jp/download/&lt;br /&gt;
+(パッケージマネージャ等を利用しても構いません)&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;- &lt;span class="caps"&gt;HOUSE&lt;/span&gt; 内は電源と Wi-Fi を利用出来ます.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;講座内容 (予定)&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;イントロダクション&lt;/li&gt;
+	&lt;li&gt;プログラミングとは?&lt;br /&gt;
+初心者向けにプログラムやプログラミング言語などの言葉について説明します.&lt;/li&gt;
+	&lt;li&gt;Python とは?&lt;br /&gt;
+他のプログラミング言語との比較を交えつつ, Python がどのような言語なのか説明します.&lt;/li&gt;
+	&lt;li&gt;Python チュートリアル&lt;br /&gt;
+公式ドキュメントのチュートリアルの内容をベースに Python を使ってみます.&lt;/li&gt;
+	&lt;li&gt;まとめ&lt;br /&gt;
+プログラミングを今後も行なっていくにあたって, どのように勉強するのが良いかなどを経験者の意見も交えつつ考えます.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;p&gt;会場の場所が少々分かりにくいため、お困りの場合は&lt;a href="https://twitter.com/CamphorKyoto"&gt;@CamphorKyoto&lt;/a&gt;にリプを飛ばして頂くか、&lt;b&gt;090-2944-8820&lt;/b&gt; (森川)までご連絡下さい。&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CAMPHOR&lt;/span&gt;-とは?: &lt;a href="http://camph.net/about/"&gt;camph.net&lt;/a&gt;&lt;br /&gt;
+講座担当者について: &lt;a href="http://www.ymyzk.com/"&gt;ymyzk.com&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/49435</event_url>
+      <started_at type="datetime">2014-04-20 19:00:00 +0900</started_at>
+      <ended_at type="datetime"/>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE</place>
+      <lat type="decimal">35.0248963</lat>
+      <lon type="decimal">135.7769091</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">20</accepted>
+      <waiting type="integer">3</waiting>
+      <updated_at type="datetime">2014-04-20 00:07:01 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">48404</event_id>
+      <title>CAMPHOR-土曜講座【サーバー構築入門】</title>
+      <catch></catch>
+      <description>&lt;p&gt;サーバー構築についての入門講座です.&lt;/p&gt;
+&lt;p&gt;サーバー構築とは何なのかという基礎的なところから解説する予定ですので,&lt;br /&gt;
+サーバー構築経験のない方の参加も歓迎します.&lt;/p&gt;
+&lt;p&gt;[内容 (予定)]&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;サーバーとは&lt;/li&gt;
+	&lt;li&gt;サーバー構築とは&lt;/li&gt;
+	&lt;li&gt;サーバー構築デモ&lt;/li&gt;
+	&lt;li&gt;質疑応答&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;どなたでもご自由にご参加お待ちしております!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;「CAMPHOR-とは？」&lt;br /&gt;
+&lt;a href="http://camph.net/about/"&gt;http://camph.net/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;講座担当者について&lt;br /&gt;
+&lt;a href="http://www.ymyzk.com/"&gt;http://www.ymyzk.com/&lt;/a&gt;&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/48404</event_url>
+      <started_at type="datetime">2014-03-22 19:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-03-22 20:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE </place>
+      <lat type="decimal">35.0248879</lat>
+      <lon type="decimal">135.7769257</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">6</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-03-20 02:31:54 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">48453</event_id>
+      <title>Cocos2d-x 入門講座</title>
+      <catch></catch>
+      <description>&lt;p&gt;Cocos2d-xの入門講座です。&lt;br /&gt;
+iPhone/Android用カジュアルゲームを作ってみたいけど、まだ手が出せていないという方向け。&lt;br /&gt;
+簡単なサンプルコードを見せながら解説したいと思います。&lt;br /&gt;
+【内容（予定）】&lt;br /&gt;
+・Cocos2d-xって？&lt;br /&gt;
+・導入してみる&lt;br /&gt;
+・基本を理解する&lt;br /&gt;
+・外部連携ツールについて&lt;br /&gt;
+・（時間の余裕があれば物理演算について）&lt;br /&gt;
+※あるといいかも&lt;br /&gt;
+Xcodeの入ったMac&lt;/p&gt;
+&lt;p&gt;「CAMPHOR-とは」&lt;br /&gt;
+&lt;a href="http://camph.net/about/"&gt;http://camph.net/about/&lt;/a&gt;&lt;br /&gt;
+「講師」&lt;br /&gt;
+&lt;a href="http://cocoabu.com/"&gt;http://cocoabu.com/&lt;/a&gt;&lt;br /&gt;
+おさむ&lt;/p&gt;
+&lt;p&gt;関西の学生集まれ〜！&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/48453</event_url>
+      <started_at type="datetime">2014-03-15 19:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-03-15 20:30:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">15</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE</place>
+      <lat type="decimal">35.0248879</lat>
+      <lon type="decimal">135.7769257</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">6</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-03-07 00:58:16 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">47340</event_id>
+      <title>CAMPHOR-土曜講座【CoffeeScript入門】</title>
+      <catch></catch>
+      <description>&lt;p&gt;JavaScriptの上位言語の一つであるCoffeeScriptの入門講座です。&lt;br /&gt;
+明日から書けることを目標にCoffeeScriptの基本文法をハンズオン形式で学んでいきたいと思います。&lt;/p&gt;
+&lt;p&gt;[内容]&lt;br /&gt;
+・CoffeeScriptとは&lt;br /&gt;
+・開発環境の導入&lt;br /&gt;
+・基本文法の解説&lt;/p&gt;
+&lt;p&gt;余裕があれば SourceMap, Grunt, Harp などについても解説したいと思います&lt;br /&gt;
+JSを書いたことがあって node.js が使える環境を予め用意してもらえると理想です&lt;/p&gt;
+&lt;p&gt;どなたでもご自由にご参加お待ちしております！&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;「CAMPHOR-とは？」&lt;br /&gt;
+http://camph.net/about/&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/47340</event_url>
+      <started_at type="datetime">2014-02-08 19:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-02-08 20:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE</place>
+      <lat type="decimal">35.0248879</lat>
+      <lon type="decimal">135.7769257</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">5</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-01-26 02:21:37 +0900</updated_at>
+    </event>
+    <event>
+      <event_id type="integer">46946</event_id>
+      <title>CAMPHOR-土曜講座【AWS入門(初級〜中級)】</title>
+      <catch></catch>
+      <description>&lt;p&gt;AWSにおけるEC2の基礎的な使い方から中級レベルまでの講座をCAMPHOR-&lt;acronym title="http:/camph.net"&gt;&lt;span class="caps"&gt;HOUSE&lt;/span&gt;&lt;/acronym&gt;で行います。&lt;/p&gt;
+&lt;p&gt;[項目予定] &lt;br /&gt;
+・インスタンス立ち上げ&lt;br /&gt;
+・EC2インスタンスを用いたWebサーバーの構築&lt;br /&gt;
+・AMIの使い方&lt;br /&gt;
+・LoadBalancersを用いた分散処理&lt;/p&gt;
+&lt;p&gt;約一時間の予定です。&lt;br /&gt;
+予めAWSのアカウントあれば、理解が深まるかも。&lt;/p&gt;
+&lt;p&gt;プロジェクターを用いて、講師によるライブ形式で行いたいと思います。&lt;/p&gt;
+&lt;p&gt;「CAMPHOR-とは？」&lt;br /&gt;
+&lt;a href="http://camph.net/about/"&gt;http://camph.net/about/ &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;どなたでもご自由にご参加お待ちしております！&lt;/p&gt;</description>
+      <event_url>http://atnd.org/events/46946</event_url>
+      <started_at type="datetime">2014-01-18 19:00:00 +0900</started_at>
+      <ended_at type="datetime">2014-01-18 20:00:00 +0900</ended_at>
+      <url>http://camph.net/house</url>
+      <limit type="integer">20</limit>
+      <address>京都府京都市左京区吉田牛ノ宮町16番地</address>
+      <place>CAMPHOR-HOUSE</place>
+      <lat type="decimal">35.0248879</lat>
+      <lon type="decimal">135.7769257</lon>
+      <owner_id type="integer">164334</owner_id>
+      <owner_nickname>CAMPHOR-</owner_nickname>
+      <owner_twitter_id>CamphorKyoto</owner_twitter_id>
+      <accepted type="integer">3</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-01-09 00:30:31 +0900</updated_at>
+    </event>
+  </events>
+</hash>

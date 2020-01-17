@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">70906</event_id>
+      <title>第2回 プログラミング大相談会</title>
+      <event_url>http://atnd.org/events/70906</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">13</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-10-06 15:30:41 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">213589</user_id>
+          <nickname>yu_i9</nickname>
+          <twitter_id>yu_i9</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">198724</user_id>
+          <nickname>Mutta</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">224337</user_id>
+          <nickname>are you me</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">183579</user_id>
+          <nickname>terada masaaki</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">136154</user_id>
+          <nickname>siriusjack</nickname>
+          <twitter_id>Siriusjack808</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">224490</user_id>
+          <nickname>y_t</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">193424</user_id>
+          <nickname>shinglish11</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">224633</user_id>
+          <nickname>szk_26</nickname>
+          <twitter_id>szklilac</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">224839</user_id>
+          <nickname>Naoooo</nickname>
+          <twitter_id>na_wo28</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">225157</user_id>
+          <nickname>nappannda</nickname>
+          <twitter_id>nappannda</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">225590</user_id>
+          <nickname>masaki.ymda</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

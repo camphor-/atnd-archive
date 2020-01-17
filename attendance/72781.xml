@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">72781</event_id>
+      <title>2015 CAMPHOR- 忘年会</title>
+      <event_url>http://atnd.org/events/72781</event_url>
+      <limit type="integer">25</limit>
+      <accepted type="integer">19</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-12-23 19:33:15 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">213589</user_id>
+          <nickname>yu_i9</nickname>
+          <twitter_id>yu_i9</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">193424</user_id>
+          <nickname>shinglish11</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">230867</user_id>
+          <nickname>nkutomi</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">193674</user_id>
+          <nickname>tanishiking</nickname>
+          <twitter_id>tanishiking</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">210883</user_id>
+          <nickname>あおきりな</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">157415</user_id>
+          <nickname>mikasakasa</nickname>
+          <twitter_id>mikasaka3</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">207386</user_id>
+          <nickname>ytmatsuge</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">231706</user_id>
+          <nickname>erikon0122</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">182706</user_id>
+          <nickname>廣瀬達也</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">136154</user_id>
+          <nickname>siriusjack</nickname>
+          <twitter_id>Siriusjack808</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">232294</user_id>
+          <nickname>とだか</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">232454</user_id>
+          <nickname>shiba6v</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">156284</user_id>
+          <nickname>ykakizoe</nickname>
+          <twitter_id>Y_Kakizoe</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">232526</user_id>
+          <nickname>K_Kei72</nickname>
+          <twitter_id>K_Kei72</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">157325</user_id>
+          <nickname>musasi</nickname>
+          <twitter_id>musasi1229</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">165134</user_id>
+          <nickname>kakenn0901</nickname>
+          <twitter_id>kakenn0901</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">232653</user_id>
+          <nickname>shinog</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">46946</event_id>
+      <title>CAMPHOR-土曜講座【AWS入門(初級〜中級)】</title>
+      <event_url>http://atnd.org/events/46946</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">3</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2014-01-09 00:30:31 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">157415</user_id>
+          <nickname>mikasakasa</nickname>
+          <twitter_id>mikasaka3</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">143683</user_id>
+          <nickname>kohey18</nickname>
+          <twitter_id>kouhei18</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">157478</user_id>
+          <nickname>たちうさ</nickname>
+          <twitter_id>tatyusa419</twitter_id>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>

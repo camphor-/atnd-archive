@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <results_returned type="integer">1</results_returned>
+  <results_start type="integer">1</results_start>
+  <events type="array">
+    <event>
+      <event_id type="integer">67823</event_id>
+      <title>WebRTC入門 ハンズオン勉強会 〜ブラウザで動く無料ビデオ通話アプリを作ろう！〜</title>
+      <event_url>http://atnd.org/events/67823</event_url>
+      <limit type="integer">20</limit>
+      <accepted type="integer">18</accepted>
+      <waiting type="integer">0</waiting>
+      <updated_at type="datetime">2015-07-02 22:57:28 +0900</updated_at>
+      <users type="array">
+        <user>
+          <user_id type="integer">193674</user_id>
+          <nickname>tanishiking</nickname>
+          <twitter_id>tanishiking</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">207386</user_id>
+          <nickname>ytmatsuge</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">169778</user_id>
+          <nickname>yaita1mo</nickname>
+          <twitter_id>manofslug</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">204742</user_id>
+          <nickname>accelerate</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">208188</user_id>
+          <nickname>khigashiguchi</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">216064</user_id>
+          <nickname>yuki_sugimoto</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">150174</user_id>
+          <nickname>ymyzk</nickname>
+          <twitter_id>ymyzk</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">216072</user_id>
+          <nickname>高木香里</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">173974</user_id>
+          <nickname>ryota-ka</nickname>
+          <twitter_id>ryotakameoka</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">182375</user_id>
+          <nickname>Kenta</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">216149</user_id>
+          <nickname>shoko_y</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">216581</user_id>
+          <nickname>キム君</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">216633</user_id>
+          <nickname>erikaisa</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">216782</user_id>
+          <nickname>ken13</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">216919</user_id>
+          <nickname>th0</nickname>
+          <twitter_id>srn_oea</twitter_id>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">216918</user_id>
+          <nickname>akira5072</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">215484</user_id>
+          <nickname>mmaiki</nickname>
+          <twitter_id/>
+          <status type="integer">1</status>
+        </user>
+        <user>
+          <user_id type="integer">213589</user_id>
+          <nickname>yu_i9</nickname>
+          <twitter_id>yu_i9</twitter_id>
+          <status type="integer">1</status>
+        </user>
+      </users>
+    </event>
+  </events>
+</hash>
